@@ -1,25 +1,185 @@
 <footer class="site-footer">
+
   <div class="footer-shell">
-    <div>
-      <div class="footer-brand">OUACC</div>
-      <p>Oxford University Association Croquet Club</p>
-      <p>University Parks, Oxford</p>
-    </div>
-    <div class="footer-links">
-      <a href="{{ home_url }}">Home</a><a href="{{ root }}oucc/about.html">The Club</a><a href="{{ root }}coaching/howtoplay.html">Play</a><a href="{{ root }}college/cuppersintro.html">Cuppers</a><a href="{{ root }}varsity/index.html">Varsity</a><a href="{{ root }}fixtures/index.html">Fixtures</a><a href="{{ root }}partnerships.html">Partnerships</a><a href="{{ root }}members.html">Members</a><a href="{{ root }}alumni.html">Alumni</a><a class="nav-join" href="{{ root }}oucc/join.html">Join</a>
-    </div>
-    <div class="partner-banner">
-      <span class="partner-label">Our partners</span>
-      <img alt="Sipsmith placeholder partner logo" src="{{ root }}images/partners/sipsmith-small.png">
-    </div>
+
+    <!-- Utility tools -->
     <div class="footer-tools">
-      <form action="{{ root }}search.html" class="footer-search" method="get">
-        <label class="visually-hidden" for="footer-search">Search the OUACC website</label>
-        <input id="footer-search" name="q" placeholder="Search OUACC" type="search">
-        <button aria-label="Search OUACC" type="submit">Search</button>
+
+      <form
+        action="{{ root }}search.html"
+        class="footer-search"
+        method="get"
+      >
+        <label
+          class="visually-hidden"
+          for="footer-search"
+        >
+          Search the OUACC website
+        </label>
+
+        <input
+          id="footer-search"
+          name="q"
+          type="search"
+          placeholder="Search OUACC"
+        >
+
+        <button
+          type="submit"
+          aria-label="Search OUACC"
+        >
+          Search
+        </button>
       </form>
-      <a class="footer-mailing" href="mailto:interested-2026-ouacc-subscribe@maillist.ox.ac.uk?subject=subscribe">Join our mailing list</a>
+
+      <a
+        class="footer-mailing"
+        href="mailto:interested-2026-ouacc-subscribe@maillist.ox.ac.uk?subject=subscribe"
+      >
+        Join our mailing list
+      </a>
+
     </div>
-    <div class="footer-note">© {{ year }} Oxford University Association Croquet Club</div>
+
+
+    <!-- Main footer -->
+    <div class="footer-main">
+
+      <!-- Club identity -->
+      <div class="footer-identity">
+
+        <div class="footer-brand">
+          OUACC
+        </div>
+
+        <p>
+          Oxford University Association Croquet Club
+        </p>
+
+      </div>
+
+
+      <!-- Club navigation -->
+      <nav
+        class="footer-column"
+        aria-label="Club"
+      >
+
+        <h2>
+          The Club
+        </h2>
+
+        <a href="{{ root }}oucc/about.html">
+          About the Club
+        </a>
+
+        <a href="{{ root }}oucc/committee.html">
+          Committee
+        </a>
+
+        <a href="{{ root }}oucc/join.html">
+          Membership
+        </a>
+
+        <a href="{{ root }}oucc/history.html">
+          History
+        </a>
+
+      </nav>
+
+
+      <!-- Play and competition navigation -->
+      <nav
+        class="footer-column"
+        aria-label="Play and competitions"
+      >
+
+        <h2>
+          Play
+        </h2>
+
+        <a href="{{ root }}coaching/howtoplay.html">
+          Learn to play
+        </a>
+
+        <a href="{{ root }}coaching/">
+          Coaching
+        </a>
+
+        <a href="{{ root }}fixtures/index.html">
+          Fixtures
+        </a>
+
+        <a href="{{ root }}college/cuppersintro.html">
+          Croquet Cuppers
+        </a>
+
+        <a href="{{ root }}varsity/index.html">
+          Varsity
+        </a>
+
+      </nav>
+
+
+      <!-- Wider OUACC network -->
+      <nav
+        class="footer-column"
+        aria-label="Community"
+      >
+
+        <h2>
+          Community
+        </h2>
+
+        <a href="{{ root }}partnerships.html">
+          Partnerships
+        </a>
+
+        <a href="{{ root }}members.html">
+          Members
+        </a>
+
+        <a href="{{ root }}alumni.html">
+          Alumni
+        </a>
+
+        <a href="{{ root }}oucc/directions.html">
+          Find us
+        </a>
+
+      </nav>
+
+    </div>
+
+
+    <!-- Partners -->
+    <div class="partner-banner">
+
+      <div class="partner-label">
+        Our partners
+      </div>
+
+      <div class="partner-logos">
+
+        <img
+          src="{{ root }}images/partners/sipsmith-small.png"
+          alt="Sipsmith"
+        >
+
+      </div>
+
+    </div>
+
+
+    <!-- Legal and institutional information -->
+    <div class="footer-note">
+
+      <span>
+        © {{ year }} Oxford University Association Croquet Club
+      </span>
+
+    </div>
+
   </div>
+
 </footer>
