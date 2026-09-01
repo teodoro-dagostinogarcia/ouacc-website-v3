@@ -12,10 +12,10 @@
      </p>
 <div class="home-actions">
 <a class="button button-solid light" href="oucc/join.html">
-       Join OUACC
+       Join the Club
       </a>
-<a class="button button-outline light" href="coaching/howtoplay.html">
-       Learn to play
+<a class="button button-outline light" href="mailto:interested-2026-ouacc-subscribe@maillist.ox.ac.uk?subject=subscribe">
+       Join the mailing list
       </a>
 </div>
 </div>
@@ -115,6 +115,9 @@
 <p>
       The Club’s courts are in the University Parks. Members can book courts, use Club equipment and play throughout the season, subject to fixtures and coaching.
      </p>
+<a class="button button-solid light" href="https://croquetbooking.com/book/index.php?view=day&area=1&room=1&site=53">
+       Book a court
+      </a>
 <a class="button button-outline light" href="oucc/directions.html">
       Find us
      </a>
@@ -139,12 +142,4 @@
 <a class="button button-solid" href="oucc/join.html">
     Membership
    </a>
-</section>
-<section class="mailing-callout">
-<div>
-<div class="section-label">Stay in touch</div>
-<h2>Join the OUACC mailing list</h2>
-<p>Receive Club news, events and competition updates through the University’s mailing list.</p>
-</div>
-<a class="button button-solid" href="mailto:interested-2026-ouacc-subscribe@maillist.ox.ac.uk?subject=subscribe">Join the mailing list</a>
 </section>
