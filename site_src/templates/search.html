@@ -1,18 +1,109 @@
 <div class="page-shell">
+
   <section class="page-hero">
-    <p class="eyebrow">Search</p>
-    <h1>Search the Club website</h1>
-    <p class="hero-dek">Find pages across the public OUACC website.</p>
+
+    <p class="eyebrow">
+      Search
+    </p>
+
+    <h1>
+      Search the Club website
+    </h1>
+
+    <p class="hero-dek">
+      Find pages, competitions, coaching information and other resources across the OUACC website.
+    </p>
+
     <div class="ornament"></div>
+
   </section>
-  <main class="content-wrap" id="main-content">
+
+
+  <main
+    class="content-wrap"
+    id="main-content"
+  >
+
     <article class="content search-page">
-      <form id="site-search-form" class="site-search-form">
-        <label for="site-search">Search OUACC</label>
-        <div class="search-row"><input id="site-search" type="search" name="q" placeholder="Search the website"><button class="button button-solid" type="submit">Search</button></div>
-      </form>
-      <p id="search-status" class="search-status">Enter a search term to begin.</p>
-      <div id="search-results" class="search-results" aria-live="polite"></div>
+
+      <section class="search-panel">
+
+        <div class="section-label">
+          Search OUACC
+        </div>
+
+        <h2>
+          What are you looking for?
+        </h2>
+
+        <form
+          id="site-search-form"
+          class="site-search-form"
+        >
+
+          <label
+            class="visually-hidden"
+            for="site-search"
+          >
+            Search the OUACC website
+          </label>
+
+          <div class="search-row">
+
+            <input
+              id="site-search"
+              type="search"
+              name="q"
+              placeholder="Search the website"
+              autocomplete="off"
+              spellcheck="false"
+            >
+
+            <button
+              class="button button-solid"
+              type="submit"
+            >
+              Search
+            </button>
+
+          </div>
+
+        </form>
+
+        <p
+          id="search-status"
+          class="search-status"
+          aria-live="polite"
+        >
+          Enter a search term to begin.
+        </p>
+
+      </section>
+
+
+      <section
+        class="search-results-section"
+        aria-labelledby="search-results-heading"
+      >
+
+        <h2
+          id="search-results-heading"
+          class="search-results-heading"
+        >
+          Search results
+        </h2>
+
+        <div
+          id="search-results"
+          class="search-results"
+          aria-live="polite"
+        >
+        </div>
+
+      </section>
+
     </article>
+
   </main>
+
 </div>
