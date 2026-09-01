@@ -1,8 +1,0 @@
-Build system
-
-1. Edit page content in site_src/content. Files are Markdown, one file per public page.
-2. Shared navigation, footer, page structure and responsive behaviour are controlled centrally in site_src/templates and ouacc-modern.css.
-3. Run python build.py to regenerate the website at the repository root.
-4. Search data, sitemap and robots.txt are regenerated automatically.
-
-Historical and archival pages are deliberately kept separate in the metadata so they can use a different editorial treatment without changing the underlying historical record.

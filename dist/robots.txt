@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://teodoro-dagostinogarcia.github.io/ouacc-website-v2/sitemap.xml
