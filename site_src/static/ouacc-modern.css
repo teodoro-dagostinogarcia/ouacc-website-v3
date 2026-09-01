@@ -1299,6 +1299,47 @@ button {
 
 
 /* =========================================================
+   MEMBERSHIP CALLOUT
+   ========================================================= */
+
+.membership-callout {
+    max-width: var(--max);
+    margin: 0 auto;
+    padding: 29px 22px 37px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 18px;
+}
+
+.membership-callout h2 {
+    margin: 5px 0 4px;
+
+    color: var(--blue);
+
+    font-family: "Libre Baskerville", Georgia, serif;
+    font-size: 21px;
+    line-height: 1.2;
+}
+
+.membership-callout p {
+    margin: 0;
+
+    color: var(--muted);
+}
+
+@media (max-width: 600px) {
+
+    .membership-callout {
+        align-items: flex-start;
+        flex-direction: column;
+
+        padding: 25px 13px 32px;
+    }
+}
+
+/* =========================================================
    FOOTER
    ========================================================= */
 
