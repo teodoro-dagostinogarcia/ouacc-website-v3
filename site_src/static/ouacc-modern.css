@@ -1299,32 +1299,6 @@ button {
 
 
 /* =========================================================
-   MEMBERSHIP CALLOUT
-   ========================================================= */
-
-.membership-callout {
-    max-width: var(--max);
-    margin: 0 auto;
-    padding: 29px 22px 37px;
-
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 18px;
-}
-
-.membership-callout h2 {
-    margin-bottom: 4px;
-}
-
-.membership-callout p {
-    margin: 0;
-
-    color: var(--muted);
-}
-
-
-/* =========================================================
    FOOTER
    ========================================================= */
 
@@ -1336,218 +1310,58 @@ button {
 .footer-shell {
     max-width: var(--max);
     margin: 0 auto;
-    padding: 28px 22px;
-
-    display: grid;
-    grid-template-columns: 1.15fr 2fr;
-    gap: 22px;
-}
-
-.footer-brand {
-    color: var(--white);
-
-    font-family: "Libre Baskerville", Georgia, serif;
-    font-size: 17px;
-}
-
-.footer-shell p {
-    margin: 4px 0;
-
-    color: rgba(255, 255, 255, 0.72);
-    font-size: 11.5px;
-}
-
-.footer-links {
-    display: flex;
-    flex-wrap: wrap;
-    align-content: start;
-    gap: 7px 15px;
-}
-
-.footer-links a {
-    color: var(--white);
-
-    font-size: 9.5px;
-    text-decoration: none;
-    text-transform: uppercase;
-    letter-spacing: 0.06em;
-}
-
-.footer-links a:hover,
-.footer-links a:focus-visible {
-    color: var(--gold);
-}
-
-.footer-note {
-    grid-column: 1 / -1;
-
-    padding-top: 13px;
-
-    border-top: 1px solid rgba(255, 255, 255, 0.14);
-
-    color: rgba(255, 255, 255, 0.5);
-    font-size: 9.5px;
+    padding: 0 22px 22px;
 }
 
 
-/* =========================================================
-   PARTNER BANNER
-   ========================================================= */
-
-.partner-banner {
-    margin: 24px 0 0;
-    padding: 18px 20px;
-
-    background: rgba(255, 255, 255, 0.045);
-    border-top: 1px solid rgba(255, 255, 255, 0.16);
-}
-
-.partner-banner .partner-label {
-    display: block;
-
-    margin-bottom: 9px;
-
-    color: var(--gold);
-
-    font-size: 9px;
-    font-weight: 700;
-    letter-spacing: 0.14em;
-    text-transform: uppercase;
-}
-
-.partner-banner img {
-    width: auto;
-    max-width: 145px;
-    height: 27px;
-
-    object-fit: contain;
-
-    filter: brightness(0) invert(1);
-    opacity: 0.92;
-}
-
-
-/* =========================================================
-   SEARCH
-   ========================================================= */
-
-.search-form {
-    max-width: 760px;
-    margin: 0 0 26px;
-}
-
-.search-form > label {
-    display: block;
-
-    margin-bottom: 7px;
-
-    color: var(--blue);
-
-    font-size: 12px;
-    font-weight: 600;
-}
-
-.search-input-row,
-.search-row {
-    display: flex;
-    gap: 8px;
-    align-items: stretch;
-
-    max-width: 760px;
-}
-
-.search-input-row input,
-.search-row input {
-    flex: 1;
-    min-width: 0;
-
-    font-size: 15px;
-}
-
-.search-status {
-    margin: 12px 0 16px;
-
-    color: var(--muted);
-    font-size: 12px;
-}
-
-.search-result {
-    padding: 14px 0;
-
-    border-top: 1px solid var(--line);
-}
-
-.search-result-title {
-    display: inline-block;
-
-    color: var(--blue);
-
-    font-family: "Libre Baskerville", Georgia, serif;
-    font-size: 16px;
-    line-height: 1.3;
-    text-decoration: none;
-}
-
-.search-result-title:hover {
-    color: var(--green);
-}
-
-.search-result p {
-    margin: 5px 0 0;
-
-    color: var(--muted);
-    font-size: 13px;
-    line-height: 1.5;
-}
-
-.no-results {
-    color: var(--muted);
-}
-
-
-/* =========================================================
-   FOOTER SEARCH AND MAILING LIST
-   ========================================================= */
+/* ---------------------------------------------------------
+   Utility tools
+   --------------------------------------------------------- */
 
 .footer-tools {
-    grid-column: 1 / -1;
-
     display: flex;
     align-items: center;
     justify-content: space-between;
-    gap: 16px;
+    gap: 20px;
 
     padding: 14px 0;
 
-    border-top: 1px solid rgba(255, 255, 255, 0.12);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.13);
 }
 
 .footer-search {
     display: flex;
 
-    min-width: min(430px, 100%);
+    width: min(430px, 100%);
 }
 
 .footer-search input {
     flex: 1;
     min-width: 0;
 
-    padding: 8px 9px;
+    padding: 8px 10px;
 
-    border: 1px solid rgba(255, 255, 255, 0.22);
+    border: 1px solid rgba(255, 255, 255, 0.24);
+    border-right: 0;
 
-    background: rgba(255, 255, 255, 0.08);
+    background: rgba(255, 255, 255, 0.07);
     color: var(--white);
 
     font: inherit;
+    font-size: 12px;
 }
 
 .footer-search input::placeholder {
-    color: rgba(255, 255, 255, 0.58);
+    color: rgba(255, 255, 255, 0.56);
+}
+
+.footer-search input:focus {
+    outline: 2px solid var(--gold);
+    outline-offset: -2px;
 }
 
 .footer-search button {
-    padding: 8px 12px;
+    padding: 8px 13px;
 
     border: 1px solid var(--gold);
 
@@ -1561,12 +1375,17 @@ button {
     text-transform: uppercase;
 }
 
+.footer-search button:hover,
+.footer-search button:focus-visible {
+    background: #efbd48;
+}
+
 .footer-mailing {
     color: var(--white);
 
     text-decoration: none;
     text-transform: uppercase;
-    letter-spacing: 0.06em;
+    letter-spacing: 0.07em;
     font-size: 9.5px;
     font-weight: 700;
 }
@@ -1576,421 +1395,199 @@ button {
     color: var(--gold);
 }
 
-.mailing-callout {
-    max-width: var(--max);
-    margin: 0 auto 12px;
-    padding: 20px 22px;
 
+/* ---------------------------------------------------------
+   Main footer navigation
+   --------------------------------------------------------- */
+
+.footer-main {
+    display: grid;
+    grid-template-columns: 1.4fr 1fr 1fr 1fr;
+    gap: 40px;
+
+    padding: 28px 0 27px;
+}
+
+.footer-identity {
+    padding-right: 20px;
+}
+
+.footer-brand {
+    color: var(--white);
+
+    font-family: "Libre Baskerville", Georgia, serif;
+    font-size: 20px;
+    line-height: 1.2;
+}
+
+.footer-identity p {
+    margin: 6px 0 0;
+
+    color: rgba(255, 255, 255, 0.68);
+    font-size: 11px;
+    line-height: 1.5;
+}
+
+
+/* Footer navigation columns */
+
+.footer-column {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.footer-column h2 {
+    margin: 0 0 10px;
+
+    color: var(--gold);
+
+    font-family: Inter, system-ui, sans-serif;
+    font-size: 9px;
+    font-weight: 700;
+    letter-spacing: 0.13em;
+    line-height: 1.2;
+    text-transform: uppercase;
+}
+
+.footer-column a {
+    display: block;
+
+    margin: 0 0 6px;
+
+    color: rgba(255, 255, 255, 0.78);
+
+    font-size: 10.5px;
+    line-height: 1.4;
+    text-decoration: none;
+}
+
+.footer-column a:hover,
+.footer-column a:focus-visible {
+    color: var(--white);
+}
+
+
+/* ---------------------------------------------------------
+   Partners
+   --------------------------------------------------------- */
+
+.partner-banner {
     display: flex;
     align-items: center;
     justify-content: space-between;
     gap: 20px;
 
-    background: var(--paper);
-    border-top: 2px solid var(--gold);
+    padding: 16px 0;
+
+    border-top: 1px solid rgba(255, 255, 255, 0.13);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.13);
 }
 
-.mailing-callout h2 {
-    margin: 4px 0;
+.partner-label {
+    flex: 0 0 auto;
 
-    color: var(--blue);
+    color: var(--gold);
 
-    font-family: "Libre Baskerville", Georgia, serif;
-    font-size: 19px;
-    line-height: 1.25;
+    font-size: 9px;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    line-height: 1.2;
+    text-transform: uppercase;
 }
 
-.mailing-callout p {
-    margin: 0;
+.partner-logos {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 20px;
 
-    color: var(--muted);
-    font-size: 12.5px;
+    flex: 1;
+}
+
+.partner-logos img {
+    width: auto;
+    height: 27px;
+    max-width: 145px;
+
+    object-fit: contain;
+
+    filter: brightness(0) invert(1);
+    opacity: 0.9;
 }
 
 
-/* =========================================================
-   RESPONSIVE, TABLET
-   ========================================================= */
+/* ---------------------------------------------------------
+   Copyright
+   --------------------------------------------------------- */
 
-@media (max-width: 980px) {
+.footer-note {
+    padding-top: 14px;
 
-    .nav-shell {
-        gap: 15px;
-    }
+    color: rgba(255, 255, 255, 0.42);
 
-    .brand {
-        min-width: 220px;
-    }
-
-    .main-nav > a,
-    .nav-parent {
-        padding-left: 6px;
-        padding-right: 6px;
-
-        font-size: 8.6px;
-    }
-
-    .main-nav > a.nav-join {
-        margin-left: 3px;
-        padding-left: 9px;
-        padding-right: 9px;
-    }
-
-    .page-grid {
-        grid-template-columns: minmax(0, 1fr) 205px;
-        gap: 20px;
-    }
+    font-size: 9px;
+    line-height: 1.4;
 }
 
 
 /* =========================================================
-   RESPONSIVE, MOBILE NAVIGATION
+   FOOTER RESPONSIVE
    ========================================================= */
 
 @media (max-width: 850px) {
 
-    .nav-shell {
-        position: relative;
-
-        min-height: 68px;
-        padding: 9px 16px;
+    .footer-main {
+        grid-template-columns: 1.5fr 1fr 1fr;
+        gap: 25px;
     }
 
-    .brand {
-        min-width: 0;
-    }
-
-    .brand-mark {
-        height: 52px;
-    }
-
-    .main-nav {
-        position: absolute;
-        top: 100%;
-        left: 0;
-        right: 0;
-        z-index: 150;
-
-        display: none;
-
-        flex-direction: column;
-        align-items: stretch;
-
-        padding: 6px 15px 12px;
-
-        background: var(--blue);
-
-        border-top: 1px solid rgba(255, 255, 255, 0.08);
-        box-shadow: 0 9px 18px rgba(0, 0, 0, 0.14);
-    }
-
-    .main-nav.is-open {
-        display: flex;
-    }
-
-    .main-nav > a,
-    .nav-parent {
-        min-height: 38px;
-
-        padding: 0 3px;
-
-        border-bottom: 1px solid rgba(255, 255, 255, 0.10);
-    }
-
-    .main-nav > a.nav-join {
-        margin-left: 0;
-        padding-left: 3px;
-        padding-right: 3px;
-    }
-
-    .nav-group {
-        flex-wrap: wrap;
-    }
-
-    .nav-group .nav-parent {
-        flex: 1;
-    }
-
-    .nav-caret {
-        width: 32px;
-        margin-left: 0;
-
-        border-bottom: 1px solid rgba(255, 255, 255, 0.10);
-    }
-
-    .dropdown-menu {
-        position: static;
-
-        display: none;
-        width: 100%;
-        min-width: 0;
-
-        padding: 2px 0 5px 10px;
-
-        border-top: 0;
-        box-shadow: none;
-
-        opacity: 1;
-        pointer-events: auto;
-
-        transform: none;
-    }
-
-    .nav-group.is-open .dropdown-menu {
-        display: block;
-    }
-
-    .dropdown-menu a {
-        padding: 7px 3px;
-
-        font-size: 10px;
-    }
-
-    .nav-toggle {
-        display: block;
-        margin-left: auto;
-    }
-
-
-    /* Interior pages */
-
-    .page-grid {
-        grid-template-columns: 1fr;
-    }
-
-    .side-rail {
-        position: static;
-
-        order: -1;
-
-        padding: 0 0 14px;
-    }
-
-    .side-rail nav {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 0 4px;
-
-        border-top: 0;
-    }
-
-    .side-rail h2 {
-        padding-bottom: 7px;
-    }
-
-    .side-rail nav a {
-        margin-bottom: 4px;
-        padding: 6px 8px;
-
-        border: 1px solid var(--line);
-    }
-
-    .side-promo {
-        display: none;
-    }
-
-
-    /* Homepage */
-
-    .home-hero-inner,
-    .feature-inner {
-        grid-template-columns: 1fr;
-    }
-
-    .home-photo {
-        order: -1;
-
-        min-height: 285px;
+    .footer-identity {
+        grid-column: 1 / -1;
+        padding-right: 0;
     }
 }
 
 
-/* =========================================================
-   RESPONSIVE, SMALL MOBILE
-   ========================================================= */
-
 @media (max-width: 600px) {
 
-    body {
-        font-size: 14px;
-    }
-
-    .nav-shell {
-        padding: 8px 13px;
-    }
-
-    .brand-mark {
-        height: 42px;
-    }
-
-    .brand-name {
-        font-size: 16px;
-    }
-
-    .brand-subtitle {
-        display: none;
-    }
-
-    .brand-year {
-        font-size: 7.5px;
-    }
-
-
-    /* Interior pages */
-
-    .page-shell {
-        padding: 0 13px;
-    }
-
-    .page-hero {
-        padding: 16px 0 14px;
-    }
-
-    .page-hero h1 {
-        font-size: 23px;
-    }
-
-    .hero-dek {
-        font-size: 13px;
-    }
-
-    .content {
-        padding: 19px 16px 22px;
-    }
-
-    .content > p:first-of-type {
-        font-size: 14.5px;
-    }
-
-    .content h2 {
-        font-size: 18px;
-    }
-
-    .content h3 {
-        font-size: 15px;
-    }
-
-    .content .photo-grid {
-        grid-template-columns: 1fr;
-    }
-
-    .page-photo img {
-        max-height: 210px;
-    }
-
-    .page-photo.is-portrait img {
-        max-height: 265px;
-    }
-
-
-    /* Homepage */
-
-    .home-copy {
-        padding: 31px 18px 33px;
-    }
-
-    .home-copy h1 {
-        max-width: 16ch;
-        font-size: 28px;
-    }
-
-    .home-copy p {
-        font-size: 13.5px;
-    }
-
-    .home-actions {
-        gap: 8px;
-    }
-
-    .home-actions .button {
-        min-width: 118px;
-    }
-
-    .home-photo {
-        min-height: 225px;
-    }
-
-    .home-strip a {
-        flex-basis: 50%;
-        min-width: 0;
-
-        padding: 8px 10px;
-    }
-
-    .editorial {
-        padding: 31px 13px 33px;
-    }
-
-    .three-grid {
-        grid-template-columns: 1fr;
-    }
-
-    .news-card {
-        min-height: 0;
-    }
-
-    .news-card-media {
-        height: 170px;
-    }
-
-    .feature-copy {
-        padding: 30px 18px;
-    }
-
-    .feature-photo {
-        min-height: 215px;
-    }
-
-    .membership-callout {
-        align-items: flex-start;
-        flex-direction: column;
-
-        padding: 25px 13px 32px;
-    }
-
-
-    /* Search */
-
-    .search-input-row,
-    .search-row {
-        flex-direction: column;
-        align-items: stretch;
-    }
-
-    .search-input-row .button,
-    .search-row .button {
-        width: 100%;
-    }
-
-
-    /* Footer */
-
     .footer-shell {
-        grid-template-columns: 1fr;
-    }
-
-    .footer-note {
-        grid-column: auto;
+        padding-left: 16px;
+        padding-right: 16px;
     }
 
     .footer-tools {
         flex-direction: column;
         align-items: stretch;
+        gap: 13px;
     }
 
     .footer-search {
-        min-width: 0;
+        width: 100%;
     }
 
-    .mailing-callout {
+    .footer-mailing {
+        align-self: flex-start;
+    }
+
+    .footer-main {
+        grid-template-columns: 1fr 1fr;
+        gap: 25px 20px;
+        padding-top: 24px;
+    }
+
+    .footer-identity {
+        grid-column: 1 / -1;
+    }
+
+    .partner-banner {
         align-items: flex-start;
         flex-direction: column;
-
-        margin-bottom: 8px;
+        gap: 10px;
     }
 
-    .partner-banner img {
-        height: 24px;
+    .partner-logos {
+        width: 100%;
     }
 }
 
