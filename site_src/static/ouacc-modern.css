@@ -1828,6 +1828,237 @@ button {
 }
 
 /* =========================================================
+   SEARCH PAGE
+   ========================================================= */
+
+.search-layout {
+    max-width: var(--measure);
+    padding-bottom: 42px;
+}
+
+.search-form {
+    margin: 0;
+}
+
+.search-form > label {
+    display: block;
+
+    margin-bottom: 7px;
+
+    color: var(--blue);
+
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+}
+
+.search-form-row {
+    display: flex;
+    gap: 8px;
+
+    width: 100%;
+}
+
+.search-form-row input {
+    flex: 1;
+    min-width: 0;
+
+    height: 42px;
+    padding: 9px 11px;
+
+    border: 1px solid var(--line);
+
+    background: var(--white);
+    color: var(--ink);
+
+    font: inherit;
+    font-size: 13px;
+}
+
+.search-form-row input::placeholder {
+    color: #8a929b;
+}
+
+.search-form-row input:focus {
+    outline: 2px solid var(--gold);
+    outline-offset: -2px;
+
+    border-color: var(--blue);
+}
+
+.search-form-row .button {
+    min-width: 102px;
+}
+
+.search-help {
+    margin: 7px 0 0;
+
+    color: var(--muted);
+    font-size: 10.5px;
+    line-height: 1.45;
+}
+
+.search-status {
+    margin: 17px 0 0;
+
+    color: var(--muted);
+    font-size: 11px;
+}
+
+.search-results {
+    margin-top: 3px;
+}
+
+.search-result {
+    padding: 13px 0 14px;
+
+    border-top: 1px solid var(--line);
+}
+
+.search-result-title {
+    display: inline-block;
+
+    color: var(--blue);
+
+    font-family: "Libre Baskerville", Georgia, serif;
+    font-size: 15px;
+    line-height: 1.35;
+
+    text-decoration: none;
+}
+
+.search-result-title:hover,
+.search-result-title:focus-visible {
+    color: var(--green);
+}
+
+.search-result p {
+    margin: 4px 0 0;
+
+    color: var(--muted);
+    font-size: 12px;
+    line-height: 1.5;
+}
+
+
+/* =========================================================
+   FOOTER REFINEMENT
+   ========================================================= */
+
+.footer-brand-block {
+    min-width: 0;
+}
+
+.footer-service-grid {
+    grid-column: 1 / -1;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+
+    padding-top: 2px;
+}
+
+.footer-search-link {
+    color: var(--white);
+}
+
+.footer-search-link:hover,
+.footer-search-link:focus-visible {
+    color: var(--gold);
+}
+
+.footer-mailing {
+    padding: 18px 20px;
+
+    background: rgba(255, 255, 255, 0.045);
+
+    border-top: 1px solid rgba(255, 255, 255, 0.16);
+}
+
+.footer-mailing .partner-label {
+    display: block;
+
+    margin-bottom: 7px;
+
+    color: var(--gold);
+
+    font-size: 9px;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+}
+
+.footer-mailing p {
+    max-width: 34ch;
+
+    margin: 0 0 11px;
+
+    color: rgba(255, 255, 255, 0.66);
+    font-size: 11px;
+    line-height: 1.5;
+}
+
+.footer-mailing-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+
+    padding: 8px 11px;
+
+    border: 1px solid rgba(228, 175, 51, 0.9);
+
+    background: transparent;
+    color: var(--gold);
+
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    font-size: 9px;
+    font-weight: 700;
+}
+
+.footer-mailing-button:hover,
+.footer-mailing-button:focus-visible {
+    background: var(--gold);
+    color: var(--blue);
+}
+
+.footer-links .nav-join {
+    color: var(--blue) !important;
+}
+
+
+/* =========================================================
+   SEARCH MOBILE
+   ========================================================= */
+
+@media (max-width: 600px) {
+
+    .search-layout {
+        padding-bottom: 32px;
+    }
+
+    .search-form-row {
+        flex-direction: column;
+    }
+
+    .search-form-row input {
+        width: 100%;
+    }
+
+    .search-form-row .button {
+        width: 100%;
+    }
+
+    .footer-service-grid {
+        grid-template-columns: 1fr;
+    }
+
+}
+
+/* =========================================================
    REDUCED MOTION
    ========================================================= */
 
