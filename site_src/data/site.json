@@ -1,0 +1,19 @@
+{
+  "name": "Oxford University Association Croquet Club",
+  "short_name": "OUACC",
+  "base_url": "https://teodoro-dagostinogarcia.github.io/ouacc-website-v3/",
+  "mailing_list": "interested-2026-ouacc",
+  "mailing_subscribe": "mailto:interested-2026-ouacc-subscribe@maillist.ox.ac.uk?subject=subscribe",
+  "photo_credit": "Photo credit: Francis Law",
+  "fonts": {
+    "heading": "Libre Baskerville",
+    "body": "Inter"
+  },
+  "palette": {
+    "blue": "#042146",
+    "gold": "#E4AF33",
+    "green": "#1D593B",
+    "rose": "#EA9291",
+    "ivory": "#FAF4E5"
+  }
+}

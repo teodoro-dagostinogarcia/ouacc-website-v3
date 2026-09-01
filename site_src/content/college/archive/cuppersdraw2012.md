@@ -1,0 +1,1098 @@
+---
+title: Oxford University Association Croquet Club - Cuppers Draw
+description: Historical material from the Club archive.
+section: 
+source_path: college/archive/cuppersdraw2012.html
+---
+
+<div class="archive-note">
+
+Archive record. Original historical or technical material is retained
+here for reference.
+
+</div>
+
+<div class="archive-note">
+
+Historical material is retained as part of the Club archive.
+Contemporary summaries may be edited, but original records and results
+are preserved.
+
+</div>
+
+The Croquet Association, the national governing body for the sport in
+England and Wales, is pleased to sponsor the Croquet Cuppers and
+delighted that so many have taken part. Many members of Oxford
+University Association Croquet Club have gone on to play in the higher
+levels of competition including several who have represented their
+countries in international teams.
+
+To find the nearest croquet club to your home, where you will be able to
+get more coaching and competitive play, go to
+[www.croquet.org.uk/clubs/](http://www.croquet.org.uk/clubs/) . ![ca
+logo](../../images/ca-logo.png)
+
+The 2012 seeded teams, based on last years competition, are (in order
+from 1st seed to 8th seed): St Edmund Hall 1, Trinity MCR 1, Keble 1,
+Pembroke 1, Oriel 1, New 2, ST Benet's 1, Exeter 1
+
+To find your team, search by pressing ctrl-F (or cmd-F on a mac) and
+enter the email of your team captain.
+
+The 2012 winners were Keble MCR 1 Congratulations.
+
+- Round 1
+- Teddy Hall 1: theocarter@mac.com
+- Blank
+- New 8: joseph.durso@new.ox.ac.uk
+- Pmb 22: jack.harrison@pmb.ox.ac.uk
+- Magd 21: matilda.ferree@magd.ox.ac.uk
+- Harris M 4: henry.chong@hmc.ox.ac.uk
+- Wadham 20: tobias.barker@wadh.ox.ac.uk
+- Pmb 16: hayley.evans@pmb.ox.ac.uk
+- St Catz 13: jack.mckenna@stcatz.ox.ac.uk
+- Mag 6: nathaniel.whitfield@magd.ox.ac.uk
+- Keble 19: sarah.poulten@keble.ox.ac.uk
+- Wadham 3: jack.webb@wadh.ox.ac.uk
+- Harris M 1: samuel.harwin@hmc.ox.ac.uk
+- Catz 25: georgina.colquhoun@stcatz.ox.ac.uk
+- Keble MCR 7: tatiana.cutts@keble.ox.ac.uk
+- Pmb 9: douglas.sloan@pmb.ox.ac.uk
+- Somerville 4: alexandra.dutson@some.ox.ac.uk
+- Exeter 15: elise.bailey@exeter.ox.ac.uk
+- Somerville 6: hugo.wallis@some.ox.ac.uk
+- Oriel 3: dylan.jones@oriel.ox.ac.uk
+- Exeter 5: rohan.dey@exeter.ox.ac.uk
+- Green 2: rodolfo.catena@gtc.ox.ac.uk
+- St Catz 10: matthew.fisher@stcatz.ox.ac.uk
+- Brasenose 4: nicholas.roberts@bnc.ox.ac.uk
+- Queens 17: parav.pandya@queens.ox.ac.uk
+- ChCh 14: thomas.chambers@chch.ox.ac.uk
+- Trinity 18: florence.walton@trinity.ox.ac.uk
+- Magd JCR 3: Duncan.Graves@magd.ox.ac.uk
+- Pmb 3: stefanie.vreeken@pmb.ox.ac.uk
+- Oriel 5: max.thomas@oriel.ox.ac.uk
+- ChCh 4: rebecca.giesler@chch.ox.ac.uk
+- Trinity 3: peter.forsyth@trinity.ox.ac.uk
+- Teddy Hall 11: alex.blakes@seh.ox.ac.uk
+- St Peters 6: rory.horswell@spc.ox.ac.uk
+- Brasenose 15: holly.emms@bnc.ox.ac.uk
+- Pmb 12: melissa.haddleton@pmb.ox.ac.uk
+- Oriel 4: joseph.evans@oriel.ox.ac.uk
+- Worc 28: ruth.munglani@worc.ox.ac.uk
+- Exeter 2: fredrik.holmgren@exeter.ox.ac.uk
+- Magd MCR 2: rhea.longley@magd.ox.ac.uk
+- St Johns 4: tom.doak@sjc.ox.ac.uk
+- New 7: jacob.shah@new.ox.ac.uk
+- Wadham 19: antony.houghton@wadh.ox.ac.uk
+- Hertford 4: fiona.johnston@hertford.ox.ac.uk
+- Trinity MCR 3: hannah.cox@trinity.ox.ac.uk
+- Trinity 4: edward.birkett@trinity.ox.ac.uk
+- Wadham 13: christopher.nicholls@wadh.ox.ac.uk
+- Worc 18: katherine.truslove@worc.ox.ac.uk
+- St Cross 2: lisa.lodwick@arch.ox.ac.uk
+- Univ 1: james.townsend@univ.ox.ac.uk
+- Mans 10: beth.collett@mansfield.ox.ac.uk
+- Worc 14: alexander.morrice@worc.ox.ac.uk
+- Somerville 1: dominic.stanford@some.ox.ac.uk
+- Mans 4: priyanaz.chatterji@mansfield.ox.ac.uk
+- St Johns 2: samuel.ward@sjc.ox.ac.uk
+- Lincoln 7: anthony.jones@lincoln.ox.ac.uk
+- Lincoln 5: lucy.hancock@lincoln.ox.ac.uk
+- Pmb 2: elliott.carande@pmb.ox.ac.uk
+- Magd JCR 1: Jonathan.turnbull@magd.ox.ac.uk
+- Magd JCR 27: daniel.hayes@magd.ox.ac.uk
+- Worc 5: thomas.roger@worc.ox.ac.uk
+- Trinity 10: olivia.cundy@trinity.ox.ac.uk
+- Pmb 27: dyedra.just@pmb.ox.ac.uk
+- Univ 3: hector.penny@univ.ox.ac.uk
+- Oriel 1: christopher.young2@oriel.ox.ac.uk
+- Blank
+- St Peters 7: hannah.wright2@spc.ox.ac.uk
+- Merton 5: jody.reimer@merton.ox.ac.uk
+- Oriel 17: callum.arnold@oriel.ox.ac.uk
+- Worc 12: angus.barry@worc.ox.ac.uk
+- St Catz 1: rebecca.wage@stcatz.ox.ac.uk
+- St Benets 4: oliver.botes@stb.ox.ac.uk
+- Brasenose 6: tamison.oconnor@bnc.ox.ac.uk
+- Pmb 35: emlyn.mooney@pmb.ox.ac.uk
+- Trinity 15: alexander.stevenson@trinity.ox.ac.uk
+- Oriel 7: alexandra.wilson2@oriel.ox.ac.uk
+- New 9: ailsa.leen@new.ox.ac.uk
+- Pmb 26: matthew.smith@pmb.ox.ac.uk
+- Keble JCR 14: beatrice.xu@keble.ox.ac.uk
+- ChCh 6: samuel.wood@chch.ox.ac.uk
+- Keble JCR 11: angus.fudge@keble.ox.ac.uk
+- Worc 13: duncan.edwards@worc.ox.ac.uk
+- Brasenose 5: lucy.currie@bnc.ox.ac.uk
+- St Hughs 1: miles.lawrence@st-hughs.ox.ac.uk
+- Merton 12: matt.booth@merton.ox.ac.uk
+- Regents 4: samuel.hodge@regents.ox.ac.uk
+- Pmb 33: mark.forshaw@pmb.ox.ac.uk
+- Pmb 11: william.rowlands@pmb.ox.ac.uk
+- Magd JCR 25: juliet.ollard@magd.ox.ac.uk
+- St Catz 16: rebecca.wyatt@stcatz.ox.ac.uk
+- Brasenose 2: charlotte.jordan@bnc.ox.ac.uk
+- Worc 21: eleanor.bridger-wilkinson@worc.ox.ac.uk
+- Balliol JCR 8: yuval.fertig@balliol.ox.ac.uk
+- Lincoln 4: joseph.crompton@lincoln.ox.ac.uk
+- Wadham 1: thomas.payne@wadh.ox.ac.uk
+- New 19: charlotte.nixon@new.ox.ac.uk
+- St Catz 20: benjamin.jeffrey@stcatz.ox.ac.uk
+- Jesus 2: ashleigh.tilley@jesus.ox.ac.uk
+- Teddy Hall 12: stanley.pinsent@seh.ox.ac.uk
+- New 28: alexander.ockenden@new.ox.ac.uk
+- Keble JCR 3: lara.sirimanne@keble.ox.ac.uk
+- Oriel 14: katie.ebner-landy@oriel.ox.ac.uk
+- Keble MCR 3: zachary.guss@keble.ox.ac.uk
+- Green 1: daniel.regan@gtc.ox.ac.uk
+- Brasenose 9: ketan.ahuja@bnc.ox.ac.uk
+- Jesus 9: catherine.gresty@jesus.ox.ac.uk
+- Mans 6: franziska.kirschner@mansfield.ox.ac.uk
+- Wadham 16: william.fitzgerald@wadh.ox.ac.uk
+- Univ 2: toby.fisher@univ.ox.ac.uk
+- Jesus 13: sophie.blake@jesus.ox.ac.uk
+- New 24: thomas.cappleman@new.ox.ac.uk
+- Balliol MCR 7: aime.lopez-aguilar@balliol.ox.ac.uk
+- Univ 7: robert.king@univ.ox.ac.uk
+- Pmb 17: jeremy.nowak@pmb.ox.ac.uk
+- St Catz 9: katherine.pears@stcatz.ox.ac.uk
+- Keble JCR 7: laura.gill@keble.ox.ac.uk
+- Univ MCR 1: faye.ashworth@univ.ox.ac.uk
+- Balliol MCR 6: laurie.laybourn@balliol.ox.ac.uk
+- St Catz 21: jocelyn.turton@stcatz.ox.ac.uk
+- Wolfson 3: Jacqueline.ratner@wolfson.ox.ac.uk
+- Lincoln 8: michael.walker@lincoln.ox.ac.uk
+- Regents 1: hannah.robertson@regents.ox.ac.uk
+- Worc 22: adam.bridgen@worc.ox.ac.uk
+- Balliol JCR 3: jonathan.davidson@balliol.ox.ac.uk
+- Pmb 36: matthew.tunna@pmb.ox.ac.uk
+- Magd JCR 14: hugh.stevens@magd.ox.ac.uk
+- Keble JCR 4: katherine.skingsley@keble.ox.ac.uk
+- Wadham 18: maxwell.thomas-mcgenity@wadh.ox.ac.uk
+- Keble JCR 1: edward.hellier@keble.ox.ac.uk
+- Blank
+- Mans 5: harinder.dhesi@mansfield.ox.ac.uk
+- Wadham 6: niccolo.torrigiani@wadh.ox.ac.uk
+- Keble MCR 8: sarah.roe@keble.ox.ac.uk
+- Queens 5: michelle.van@queens.ox.ac.uk
+- Corpus 4: blessing.inyang@ccc.ox.ac.uk
+- New 12: josephine.rabinowitz@new.ox.ac.uk
+- Trinity 14: adam.carter@trinity.ox.ac.uk
+- Balliol JCR 2: isaac.rose@balliol.ox.ac.uk
+- New 11: steven.donlon@new.ox.ac.uk
+- Corpus 2: kezia.lock@ccc.ox.ac.uk
+- Hertford 5: omer.sheikhmohamed@hertford.ox.ac.uk
+- Harris M 2: andrew.horsewood@hmc.ox.ac.uk
+- Merton 2: robert.price@merton.ox.ac.uk
+- Exeter 10: james.craven@exeter.ox.ac.uk
+- ChCh 8: sabian.chauhan@chch.ox.ac.uk
+- Balliol MCR 11: matthew.wright@balliol.ox.ac.uk
+- Teddy Hall 9: haaris.ahmed@seh.ox.ac.uk
+- Jesus 3: alfred.fielder@jesus.ox.ac.uk
+- Trinity 12: conor.kennedy@trinity.ox.ac.uk
+- Teddy Hall 10: adam.wozniak@seh.ox.ac.uk
+- Pmb 6: callum.jackson@pmb.ox.ac.uk
+- Worc 26: rosa.hurdidge@worc.ox.ac.uk
+- Mans 9: samuel.firman@mansfield.ox.ac.uk
+- Worc 8: eugene.atkinson@worc.ox.ac.uk
+- Worc 27: emily.firmston@worc.ox.ac.uk
+- Mans 13: helen.yang@materials.ox.ac.uk
+- Brasenose 14: tom.beardsworth@bnc.ox.ac.uk
+- St Annes 2
+- Trinity 13: marini.thorne@trinity.ox.ac.uk
+- Somerville 5: michael.brett@some.ox.ac.uk
+- Pmb 4: jack.andrews@pmb.ox.ac.uk
+- Magd JCR 4: lucy.waddicor-hnizdur@magd.ox.ac.uk
+- Univ 12: kathryn.smith@univ.ox.ac.uk
+- Queens 4: rebecca.bibb@queens.ox.ac.uk
+- LMH 1: paul.bennett@lmh.ox.ac.uk
+- Keble JCR 16: joe.jordan@keble.ox.ac.uk
+- ChCh 10: georgia.lotter@hotmail.com
+- St Benets 2: matthew.pigott@stb.ox.ac.uk
+- Magd JCR 22: thomas.adamson-green@magd.ox.ac.uk
+- Exeter 11: katharine.dusenbury@exeter.ox.ac.uk
+- Merton 9: luke.hughes@merton.ox.ac.uk
+- Mans 23: aled.davies@mansfield.ox.ac.uk
+- Balliol JCR 7: rosemary.bettle@balliol.ox.ac.uk
+- Jesus 8: jonathon.woodward@jesus.ox.ac.uk
+- Teddy Hall 4: alistair.reed@seh.ox.ac.uk
+- Balliol MCR 8: hannah.joll@balliol.ox.ac.uk
+- Oriel 15: poppy.jeffries@oriel.ox.ac.uk
+- Exeter 3: chris.morgan@exeter.ox.ac.uk
+- Mans 3: george.hasell-mccosh@mansfield.ox.ac.uk
+- Hertford 1: miranda.essex@hertford.ox.ac.uk
+- Queens 6: milo.comerford@queens.ox.ac.uk
+- Somerville 2: michael.davies@some.ox.ac.uk
+- Lincoln 1: william.fletcher@lincoln.ox.ac.uk
+- Univ MCR 2: tristen.naylor@univ.ox.ac.uk
+- Regents 3: kirsty.borthwick@regents.ox.ac.uk
+- Oriel 6: henry.jefferies@oriel.ox.ac.uk
+- Univ 4: philip.brooks@univ.ox.ac.uk
+- St Hildas 1: harry.browne@st-hildas.ox.ac.uk
+- St Hughs 3: antonia.trent@st-hughs.ox.ac.uk
+- St Catz 6: olivia.peacock@stcatz.ox.ac.uk
+- Keble JCR 2: edward.knight@keble.ox.ac.uk
+- Wadham 2: bijan.rafraf@wadh.ox.ac.uk
+- New 2: william.mycroft@new.ox.ac.uk
+- Blank
+- Univ 5: christopher.colman@univ.ox.ac.uk
+- Oriel 16: emily-jane.randall@oriel.ox.ac.uk
+- Balliol JCR 6: ragulan.vigneswaran@balliol.ox.ac.uk
+- Queens 15: sean.robinson@queens.ox.ac.uk
+- Jesus 15: joshua.berkley@jesus.ox.ac.uk
+- Balliol MCR 13: oscar.schonfeld@balliol.ox.ac.uk
+- Worc 30: chloe.cesar@worc.ox.ac.uk
+- Somerville 7: thomas.mortimer@some.ox.ac.uk
+- Jesus 7: eleanor.armstrong@jesus.ox.ac.uk
+- Balliol JCR 1: benjamin.marshall@balliol.ox.ac.uk
+- Trinity 7: lorna.averies@trinity.ox.ac.uk
+- Trinity MCR 2: andrew.whitby@trinity.ox.ac.uk
+- Worc 7: liam.steward-george@worc.ox.ac.uk
+- Wadham 11: edward.taroghion@wadh.ox.ac.uk
+- St Peters 1: hugo.gordon@spc.ox.ac.uk
+- Queens 18: audra.fediurek@queens.ox.ac.uk
+- Oriel 13: anatole.sloan@oriel.ox.ac.uk
+- Somerville 8: samuel.talalay@some.ox.ac.uk
+- Merton 8: matylda.maciejewska@merton.ox.ac.uk
+- Jesus 4: lowri.ifor@jesus.ox.ac.uk
+- Worc 23: anna.dominey@worc.ox.ac.uk
+- New 18: isabel.sunnucks@new.ox.ac.uk
+- Queens 1: luke.sewell@queens.ox.ac.uk
+- St Hildas 3: jonathan.griffiths@st-hildas.ox.ac.uk
+- Oriel 9: nika.jones@oriel.ox.ac.uk
+- ChCh 2: kevin.tan@chch.ox.ac.uk
+- Keble JCR 5: cornel.hrisca-munn@keble.ox.ac.uk
+- Jesus 12: lauren.nimmo@jesus.ox.ac.uk
+- Balliol JCR 10: serena.barker-singh@balliol.ox.ac.uk
+- Worc 17: rosalind.martin@worc.ox.ac.uk
+- Wadham 17: alistair.johnson@wadh.ox.ac.uk
+- Worc 29: alexander.hunt@worc.ox.ac.uk
+- Harris M 3: poppy.waskett@hmc.ox.ac.uk
+- Mans 26: samuel.knight@mansfield.ox.ac.uk
+- St Cross 1: carrie.wright@rlaha.ox.ac.uk
+- Pmb 13: marco.mancuso-marcello@pmb.ox.ac.uk
+- New 25: lachlan.mackinnon@new.ox.ac.uk
+- St Johns 5: oliver.vasey@sjc.ox.ac.uk
+- Keble JCR 8: martha.baskerville@keble.ox.ac.uk
+- New 14: anna.trompetas@new.ox.ac.uk
+- Univ 10: marguerite.vernes@univ.ox.ac
+- Worc 9: harry.hall@worc.ox.ac.uk
+- Worc 6: jim.fouracre@plants.ox.ac.uk
+- Pmb 15: samuel.dumigan@pmb.ox.ac.uk
+- Magd JCR 15: amelia.ross@magd.ox.ac.uk
+- Balliol MCR 2: katrina.longo@balliol.ox.ac.uk
+- Magd JCR 7: Philip.garner@magd.ox.ac.uk
+- Magd JCR 18: timothy.leddy@magd.ox.ac.uk
+- Worc 32: emily.frost@worc.ox.ac.uk
+- Trinity 6: magdalena.kowalczuk@trinity.ox.ac.uk
+- Queens 9: naomi.aylwin@queens.ox.ac.uk
+- Balliol MCR 12: andrew.paverd@balliol.ox.ac.uk
+- St Catz 12: marcus.stevenson@stcatz.ox.ac.uk
+- ChCh 11: fraiser.eccles@chch.ox.ac.uk
+- Wolfson 2: john.mcmanigle@wolfson.ox.ac.uk
+- Magd JCR 20: jane.cundliffe@magd.ox.ac.uk
+- Mans 20: james.fisher@mansfield.ox.ac.uk
+- Univ MCR 3: ben.barnett@univ.ox.ac.uk
+- Mans 17: rebecca.loxton@mansfield.ox.ac.uk
+- St Catz 4: jmacula@macalester.edu
+- Worc 3: william.valori@worc.ox.ac.uk
+- Lincoln 3: jennifer.metcalfe@lincoln.ox.ac.uk
+- Trinity MCR 1: luke.valori@trinity.ox.ac.uk
+- Blank
+- Mans 11: joseph.morris@mansfield.ox.ac.uk
+- Keble JCR 13: sascha.eady@keble.ox.ac.uk
+- andrew.mewton@hmc.ox.ac.uk
+- Queens 11: christian.burgess@queens.ox.ac.uk
+- St Catz 15: ben.thomas@stcatz.ox.ac.uk
+- Pmb 37: samuel.wills@pmb.ox.ac.uk
+- Pmb 28: william.erlain@pmb.ox.ac.uk
+- Univ 11: adam.brand@univ.ox.ac.uk
+- New 3: edward.hermes@new.ox.ac.uk
+- Pmb 34: emmelle.wilson-raymond@pmb.ox.ac.uk
+- Pmb 5: yassine.noui@pmb.ox.ac.uk
+- ChCh 1: rowan.callinan@chch.ox.ac.uk
+- Oriel 2: simon.dungate@oriel.ox.ac.uk
+- ChCh 3: oliver.gleeson@chch.ox.ac.uk
+- New 23: matthew.jenkins@new.ox.ac.uk
+- Magd JCR 26: benjamin.durrant@magd.ox.ac.uk
+- Worc 24: david.huggins@worc.ox.ac.uk
+- Keble JCR 17: james.spencer@keble.ox.ac.uk
+- Exeter 13: zane.martin@exeter.ox.ac.uk
+- Teddy Hall 5: emily.carson@seh.ox.ac.uk
+- Regents 2: ashley.cooke@regents.ox.ac.uk
+- Jesus 11: khushaal.ved@jesus.ox.ac.uk
+- Trinity 2: adam.bertelsen@trinity.ox.ac.uk
+- Brasenose 1: fleming.puckett@yahoo.com
+- Brasenose 16: jeanne.delebarre@bnc.ox.ac.uk
+- Queens 12: sophie.hughes@queens.ox.ac.uk
+- Exeter 20: sam.perkins@exeter.ox.ac.uk
+- Keble MCR 2: ruairidh.battleday@keble.ox.ac.uk
+- New 27: christopher.menzies-wilson@new.ox.ac.uk
+- Balliol JCR 5: alastair.travis@balliol.ox.ac.uk
+- Worc 2: james.raynor@worc.ox.ac.uk
+- Oriel 8: elizabeth.duncan@oriel.ox.ac.uk
+- Wadham 8: charlotte.garner@wadh.ox.ac.uk
+- Jesus 14: gruffudd.owen@jesus.ox.ac.uk
+- New 16: laura.vandererve@new.ox.ac.uk
+- Wadham 4: emma.elliston@wadh.ox.ac.uk
+- Brasenose 18: vps5@georgetown.edu
+- Teddy Hall 2: andrew.fleming@seh.ox.ac.uk
+- Pmb 31: emily.allison@pmb.ox.ac.uk
+- Balliol JCR 9: thomas.simpkins@balliol.ox.ac.uk
+- Exeter 7: richard.collett-white@exeter.ox.ac.uk
+- St Catz 11: zakiy.manji@stcatz.ox.ac.uk
+- Balliol MCR 10: indrek.pernik@balliol.ox.ac.uk
+- New 20: samuel.cooper@new.ox.ac.uk
+- Trinity 5: robert.gray@trinity.ox.ac.uk
+- Worc 15: robert.leonard@worc.ox.ac.uk
+- Wadham 15: jessye.lennie@wadh.ox.ac.uk
+- Jesus 10: guy.brindley@jesus.ox.ac.uk
+- Blank
+- St Peters 9: piers.kennedy@spc.ox.ac.uk
+- Pmb 21: louisa.ellis@pmb.ox.ac.uk
+- Magd JCR 12: robert.mangan@magd.ox.ac.uk
+- St Catz 23: james.black@stcatz.ox.ac.uk
+- New 10: hugo@robots.ox.ac.uk
+- St Catz 22: pablo.simko@stcatz.ox.ac.uk
+- Jesus 5: oliver.capehorn@jesus.ox.ac.uk
+- Keble JCR 18: alexander.king@keble.ox.ac.uk
+- Hertford 3: emma.pritchard@hertford.ox.ac.uk
+- Wadham 12: geetanjali.normandale@wadh.ox.ac.uk
+- Pmb 18: jenny.sanford@pmb.ox.ac.uk
+- Magd JCR 11: quentin.spencer-harper@magd.ox.ac.uk
+- Magd JCR 17: samuel.lowe@magd.ox.ac.uk
+- St Benets 1: daniel.draper@stb.ox.ac.uk
+- Blank
+- Keble MCR 4: lark.greenwald@keble.ox.ac.uk
+- New 1: adam.chekroud@new.ox.ac.uk
+- Corpus 1: samuel.robberts@ccc.ox.ac.uk
+- Magd JCR 8: henry.watson@magd.ox.ac.uk
+- Wolfson 1: christopher.trisos@wolfson.ox.ac.uk
+- Pmb 7: samuel.elwin@pmb.ox.ac.uk
+- Keble JCR 10: mia.baise@keble.ox.ac.uk
+- Trinity 20: richard.lobo@trinity.ox.ac.uk
+- New 21: victoria.clayton@new.ox.ac.uk
+- St Catz 17: sagar.shah@stcatz.ox.ac.uk
+- Exeter 4: david.donaghy@exeter.ox.ac.uk
+- Magd JCR 13: mohammad.wadud@magd.ox.ac.uk
+- Balliol MCR 14: william.musker@balliol.ox.ac.uk
+- Queens 3: carl.jones@queens.ox.ac.uk
+- Mans 2: rehan.deen@mansfield.ox.ac.uk
+- St Hughs 2: michael.holloway@st-hughs.ox.ac.uk
+- Blank
+- Keble JCR 20: seamus.ohagan@keble.ox.ac.uk
+- New 26: ilya.levantis@new.ox.ac.uk
+- Keble JCR 21: michael.leung@keble.ox.ac.uk
+- Oriel 11: maria.bergquist@oriel.ox.ac.uk
+- St Peters 2: oliver.bristowe@spc.ox.ac.uk
+- LMH 2: anna.thompson@lmh.ox.ac.uk
+- St Benets 3: orme.clarke@stb.ox.ac.uk
+- Merton 6: matthew.lloyd@merton.ox.ac.uk
+- ChCh 13: george.huntley@chch.ox.ac.uk
+- Brasenose 13: gareth.mellon@sbs.ox.ac.uk
+- St Catz 8: matthew.reynolds@stcatz.ox.ac.uk
+- Worc 33: sarah.payne@worc.ox.ac.uk
+- Merton 11: samuel.dickinson@merton.ox.ac.uk
+- Wadham 7: sean.bullock@wadh.ox.ac.uk
+- Teddy Hall 7: felix.brown@seh.ox.ac.uk
+- Worc 16: hannah.goodier@worc.ox.ac.uk
+- Queens 16: henry.beg@queens.ox.ac.uk
+- Trinity 8: thomas.robertson@trinity.ox.ac.uk
+- Corpus 3: sophie.baggott@ccc.ox.ac.uk
+- St Peters 8: mark.whitgift@spc.ox.ac.uk
+- Mans 25: caroline.voldstad@mansfield.ox.ac.uk
+- Mans 21: timothy.smith@mansfield.ox.ac.uk
+- St Catz 5: may.anderson91@googlemail.com
+- Merton 7: emma.loftus@merton.ox.ac.uk
+- Trinity 11: nathan.mulcock@trinity.ox.ac.uk
+- Balliol JCR 11: paul.moroz@balliol.ox.ac.uk
+- Univ 8: joseph.saxby@univ.ox.ac.uk
+- Worc 1: jerome.wicker@worc.ox.ac.uk
+- Keble MCR 1: daniel.guinness@keble.ox.ac.uk
+- Mans 19: james.burnett@mansfield.ox.ac.uk
+- St Annes 1
+- Magd MCR 1: andrew.arceci@magd.ox.ac.uk
+- Trinity 1: joseph.robinson@trinity.ox.ac.uk
+- Balliol MCR 5: ramtinamin@gmail.com
+- Magd JCR 2: joseph.lea@magd.ox.ac.uk
+- ChCh 12: oliver.schofield@chch.ox.ac.uk
+- Magd JCR 19: jakob.berry@magd.ox.ac.uk
+- Queens 14: eugene.hind@queens.ox.ac.uk
+- Brasenose 7: samh21@hotmail.co.uk
+- Pmb 32: tyrone.steele@pmb.ox.ac.uk
+- New 17: rosalind.polya@new.ox.ac.uk
+- Trinity 19: priya.manwaring@trinity.ox.ac.uk
+- St Peters 3: catherine.born@spc.ox.ac.uk
+- Trinity 17: christopher.holcroft@trinity.ox.ac.uk
+- ChCh 9: lawrence.houldsworth@chch.ox.ac.uk
+- Pmb 1: andris.rudzitis@pmb.ox.ac.uk
+- Blank
+- St Catz 3: linda.greaves@stcatz.ox.ac.uk
+- Ruskin 2: oliver.collins@balliol.ox.ac.uk
+- Keble MCR 6: sonia.salimon@keble.ox.ac.uk
+- Worc 10: james.price@worc.ox.ac.uk
+- Pmb 24: charlotte.mostertz@pmb.ox.ac.uk
+- Exeter 9: rebecca.frew@exeter.ox.ac.uk
+- Worc 11: ian.chan@worc.ox.ac.uk
+- St Johns 1: stuart.rowland@sjc.ox.ac.uk
+- St Peters 10: michael.peet@spc.ox.ac.uk
+- Pmb 10: chloe.huckstep@pmb.ox.ac.uk
+- St Catz 19: daniel.owen@stcatz.ox.ac.uk
+- St Johns 3: thomas.ough@sjc.ox.ac.uk
+- Merton 4: martin.lester@maths.ox.ac.uk
+- Brasenose 19: james.wills@bnc.ox.ac.uk
+- Exeter 6: jake.jacobs@exeter.ox.ac.uk
+- Keble JCR 9: daniel.ginger@keble.ox.ac.uk
+- New 5: henry.taylor@new.ox.ac.uk
+- Magd JCR 5: daniel.greenwood@magd.ox.ac.uk
+- Worc 31: andrew.davies@worc.ox.ac.uk
+- Oriel 12: helen.belgranooperto@oriel.ox.ac.uk
+- Keble JCR 22: cwhite.0392@gmail.com
+- St Catz 24: jack.graham@stcatz.ox.ac.uk
+- St Catz 18: rosemary.bridson@stcatz.ox.ac.uk
+- Wadham 21: chloe.duke@wadh.ox.ac.uk
+- St Catz 7: scott.tully@stcatz.ox.ac.uk
+- Worc 20: lucy.payne@worc.ox.ac.uk
+- Keble JCR 12: amrita.ahmed@keble.ox.ac.uk
+- Pmb 19: danielle.kijewski@pmb.ox.ac.uk
+- Exeter 19: michael.dunne@exeter.ox.ac.uk
+- Univ 9: paulina.ivanova@univ.ox.ac.uk
+- Worc 25: keir.pearson@worc.ox.ac.uk
+- Mans 1: andrew.seaton@mansfield.ox.ac.uk
+- St Hildas 4: callyane.desroches@st-hildas.ox.ac.uk
+- Exeter 12: emily.mcallister@exeter.ox.ac.uk
+- Mans 16: samantha.hoffmann@mansfield.ox.ac.uk
+- Magd JCR 23: sophie.roper@magd.ox.ac.uk
+- Worc 4: charles.davies@worc.ox.ac.uk
+- ChCh 5: charles.bridge@chch.ox.ac.uk
+- St Catz 26: joanna.harrall@stcatz.ox.ac.uk
+- St Peters 4: keir.edwards@spc.ox.ac.uk
+- Lincoln 6: jack.eaton@lincoln.ox.ac.uk
+- Merton 1: ben.challen@merton.ox.ac.uk
+- Brasenose 10: tom.kent@bnc.ox.ac.uk
+- Magd JCR 16: alyssa.stansbury@magd.ox.ac.uk
+- Brasenose 12: edward.bonnell@bnc.ox.ac.uk
+- Trinity 21: benjamin.dive@trinity.ox.ac.uk
+- Keble JCR 6: calypso.blaj@keble.ox.ac.uk
+- Balliol MCR 3: elizabeth.howe@balliol.ox.ac.uk
+- Wadham 10: katherine.williams@wadh.ox.ac.uk
+- Hertford 2: alexandra.floyd@hertford.ox.ac.uk
+- Trinity 9: charles.hirst@trinity.ox.ac.uk
+- Exeter 17: nicholas.altham@exeter.ox.ac.uk
+- Exeter 8: simi.nijher@exeter.ox.ac.uk
+- Pmb 8: jonathan.page@pmb.ox.ac.uk
+- Merton 10: khalil.davis@merton.ox.ac.uk
+- New 22: laura.kennedy@new.ox.ac.uk
+- St Johns 6: fergus.butler-gallie@sjc.ox.ac.uk
+- New 6: elizabeth.mcmullan@new.ox.ac.uk
+- Balliol JCR 4: will.tummon@balliol.ox.ac.uk
+- Pmb 23: claire.cocks@pmb.ox.ac.uk
+- Mans 15: myles.coleman@mansfield.ox.ac.uk
+- Teddy Hall 3: richard.collins@seh.ox.ac.uk
+- Exeter 1: tim.davies@exeter.ox.ac.uk
+- Blank
+- Magd JCR 9: hamish.hunter@magd.ox.ac.uk
+- Brasenose 8: james.arnot@bnc.ox.ac.uk
+- Pmb 14: james.hamel@pmb.ox.ac.uk
+- Merton 3: andrew.oflaherty@merton.ox.ac.uk
+- Lincoln 2: edward.richards@lincoln.ox.ac.uk
+- Balliol MCR 1: urban.michael@gmail.com
+- Keble JCR 23: andrew.paine@keble.ox.ac.uk
+- Brasenose 3: richard.sykes@bnc.ox.ac.uk
+- LMH 3: issah.abdul-moomin@lmh.ox.ac.uk
+- Queens 8: denis.kent@queens.ox.ac.uk
+- St Hildas 2: heather.mayer@st-hildas.ox.ac.uk
+- Harris M 5: julian.albert@hmc.ox.ac.uk
+- New 4: robert.hunt@new.ox.ac.uk
+- Queens 10: thomas.watts@queens.ox.ac.uk
+- Mans 7: rhiannon.jones@mansfield.ox.ac.uk
+- St Catz 14: molly.brown@stcatz.ox.ac.uk
+- St Catz 2: douglas.trindade@stcatz.ox.ac.uk
+- Keble MCR 5: frank.boker@keble.ox.ac.uk
+- Harris M 7: lois.sage@hmc.ox.ac.uk
+- St Benets 5: orme.clarke@stb.ox.ac.uk
+- Teddy Hall 8: oliver.madgwick@seh.ox.ac.uk
+- Univ 6: ruth.hattersley@univ.ox.ac.uk
+- Mans 8: enrica.biasi@mansfield.ox.ac.uk
+- Worc 19: patrick.scott@worc.ox.ac.uk
+- Mans 27: bryce.mitsunaga@mansfield.ox.ac.uk
+- Magd JCR 10: alastair.sharp@magd.ox.ac.uk
+- Mans 14: sophie.wilson@mansfield.ox.ac.uk
+- Queens 2: fred.woodcock@queens.ox.ac.uk
+- Mans 18: joseph.dequay@mansfield.ox.ac.uk
+- Oriel 10: ross.finnie@oriel.ox.ac.uk
+- Keble JCR 15: sarah.worsley@keble.ox.ac.uk
+- Mans 24: katri.piiparinen@mansfield.ox.ac.uk
+- New 13: mischa.frankl-duval@new.ox.ac.uk
+- Pmb 20: louise.bond@pmb.ox.ac.uk
+- Mans 12: amy.smith@mansfield.ox.ac.uk
+- Balliol MCR 9: barrydewitt@gmail.com
+- ChCh 7: william.badham@chch.ox.ac.uk
+- Hertford 6: katie.agius@hertford.ox.ac.uk
+- Balliol MCR 4: georgina.lang@balliol.ox.ac.uk
+- Wadham 5: nicholas.salmon@wadh.ox.ac.uk
+- Teddy Hall 6: margery.infield@seh.ox.ac.uk
+- Wadham 14: rachel.januszewski@wadh.ox.ac.uk
+- Ruskin 1: joel.scott-halkes@lmh.ox.ac.uk
+- Pmb 30: daniel.pennington@pmb.ox.ac.uk
+- Somerville 3: olivia.moorby@some.ox.ac.uk
+- Brasenose 11: thomas.burton@bnc.ox.ac.uk
+- Mans 22: samuel.nemzer@mansfield.ox.ac.uk
+- Jesus 1: toby.mather@jesus.ox.ac.uk
+- St Peters 5: nakulkumar.patel@spc.ox.ac.uk
+- Magd JCR 24: leslie.bailey@magd.ox.ac.uk
+- Exeter 18: catherine.gillespie@exeter.ox.ac.uk
+- Exeter 16: thomas.coy@exeter.ox.ac.uk
+- Exeter 14: philip.kennedy@exeter.ox.ac.uk
+- Pmb 25: kayleigh.hubbard@pmb.ox.ac.uk
+- Wadham 9: ed.klinger@wadh.ox.ac.uk
+- Pmb 29: abigail.scarlett@pmb.ox.ac.uk
+- New 15: catherine.meenan@new.ox.ac.uk
+- Worc 34: robert.leonard@worc.ox.ac.uk
+- Regents 5: harrison.denner@regents.ox.ac.uk
+- Queens 13: charles.baynham@queens.ox.ac.uk
+- Queens 7: robert.griffiths@queens.ox.ac.uk
+- Merton 13: richard.millar@merton.ox.ac.uk
+
+<!-- -->
+
+- Round 2
+- SEH 1
+- New 8
+- Harris M 4
+- Pmb 16
+- Magd JCR 6
+- Wadham 3
+- Harris M 1
+- Pmb 9
+- Exeter 15
+- Oriel 3
+- Green 2
+- St Catz 10
+- Queens 17
+- Magd JCR 3
+- Pmb 3
+- ChCh 4
+- St Peters 6
+- Brase 15
+- Worc 28
+- Exeter 2
+- New 7
+- Hertford 4
+- Trinity 4
+- wadham 13
+- Univ 1
+- Worc 14
+- Some 1
+- Lincoln 7
+- Pmb 2
+- Magd JCR 1
+- Worc 5
+- Univ 3
+- Oriel 1
+- Merton 5
+- Worc 12
+- St Bennets 4
+- Pmb 35
+- Oriel 7
+- New 9
+- ChCh 6
+- Worc 13
+- St Hughs 1
+- Regents 4
+- Pmb 11
+- Magd JCR 25
+- Brasenose 2
+- Balliol JCR 8
+- Wadham 1
+- Jesus 2
+- New 28
+- Keble J 3
+- Green 1
+- Jesus 9
+- Wadham 16
+- Jesus 13
+- New 24
+- Univ 7
+- St Catz 9
+- Univ MCR 1
+- Wolfson 3
+- Regents 1
+- Balliol J 3
+- Magd J 14
+- Wadham 18
+- Keble JCR 1
+- Wadham 6
+- Queens 5
+- Corpus 4
+- Trinity 14
+- Corpus 2
+- Harris M 2
+- Merton 2
+- ChCh 8
+- Jesus 3
+- Teddy Hall 10
+- Worc 26
+- Mans 9
+- Mans 13
+- Brasenose 14
+- Somerville 5
+- Pmb 4
+- Queens 4
+- LMH 1
+- ChCh 10
+- Exeter 11
+- Merton 9
+- Balliol J 7
+- Balliol M 8
+- Exeter 3
+- Mans 3
+- Queens 6
+- Lincoln 1
+- Oriel 6
+- St Hildas 1
+- St Hughs 3
+- Wadham 2
+- New 2
+- Oriel 16
+- Queens 15
+- Jesus 15
+- Som 7
+- Balliol J 1
+- Trinity M 2
+- Wadham 11
+- Queens 18
+- Som 8
+- Jesus 4
+- Worc 23
+- Queens 1
+- Ch Ch 2
+- Jesus 12
+- Worc 17
+- Wadham 17
+- Mans 26
+- Pmb 13
+- New 25
+- Keble J 8
+- Univ 10
+- Worc 6
+- Balliol M 2
+- Magd 7
+- Trinity 6
+- Balliol MCR 12
+- St Catz 12
+- Wolfson 2
+- Mans 20
+- St Catz 4
+- Worc 3
+- Trinity MCR 1
+- Mans 11
+- Queens 11
+- Pmb 37
+- Univ 11
+- New 3
+- ChCh 1
+- Oriel 2
+- New 23
+- Keble JCR 17
+- SEH 5
+- Jesus 11
+- Trinity 2
+- Queens 12
+- Keble MCR 2
+- Balliol J 5
+- Worc 2
+- Wadham 8
+- Wadham 4
+- Teddy Hall 2
+- Pmb 31
+- St Catz 11
+- Balliol M 10
+- Trinity 5
+- Jesus 10
+- St Peters 9
+- Pmb 21
+- New 10
+- Jesus 5
+- Hertford 3
+- Wadham 12
+- Magd J 11
+- St Benets 1
+- New 1
+- Magd JCR 8
+- Wolfson 1
+- Trinity 20
+- St Catz 17
+- Exeter 4
+- Balliol MCR 14
+- Mans 2
+- Keble JCR 20
+- Keble J 21
+- St Peters 2
+- LMH 2
+- ChCh 13
+- St Catz 8
+- Worc 33
+- SEH 7
+- Queens 16
+- Trinity 8
+- St Peters 8
+- Mans 21
+- Trinity 11
+- Univ 8
+- Keble MCR 1
+- Mans 19
+- Trinity 1
+- Magd J 2
+- ChCh 12
+- Brasenose 7
+- New 17
+- Trinity 19
+- Trin 17
+- Pmb 1
+- Ruskin 2
+- Keble MCR 6
+- Exeter 9
+- Worc 11
+- St Peters 10
+- St Johns 3
+- Merton 4
+- Keble J 9
+- Magd J 5
+- Worc 31
+- Keble J 22
+- Wadham 21
+- St Catz 7
+- Pmb 19
+- Exeter 19
+- Worc 25
+- St Hildas 4
+- Magd J 23
+- Worc 4
+- St Peters 4
+- Merton 1
+- Brase 10
+- Brasenose 12
+- Balliol MCR 3
+- Wadham 10
+- Trinity 9
+- Exeter 8
+- Merton 10
+- New 6
+- Balliol J 4
+- SEH 3
+- Exeter 1
+- Magd JCR 9
+- Pmb 14
+- Balliol MCR 1
+- Brase 3
+- Queens 8
+- St Hildas 2
+- New 4
+- St Catz 14
+- St Catz 2
+- STB 5
+- SEH 8
+- Worc 19
+- Mans 27
+- Queens 2
+- Mans 18
+- Mans 24
+- Pmb 20
+- Balliol M 9
+- ChCh 7
+- Balliol MCR 4
+- Wadham 14
+- Pmb 30
+- Some 3
+- Jesus 1
+- St Peters 5
+- Exeter 16
+- Pmb 25
+- Wadham 9
+- New 15
+- Regents 5
+- Merton 13
+
+<!-- -->
+
+- Round 3
+- SEH 1
+- Harris M 4
+- Wadham 3
+- Harris M 1
+- Oriel 3
+- Green 2
+- Madg J 3
+- ChCh 4
+- St Peters 6
+- Exeter 2
+- New 7
+- Trinity 4
+- Univ 1
+- Some 1
+- Pmb 2
+- Worc 5
+- Oriel 1
+- Worc 12
+- Pmb 35
+- New 9
+- Worc 13
+- Pmb 11
+- Brasenose 2
+- Balliol JCR 8
+- Jesus 2
+- Green 1
+- Wadham 16
+- New 24
+- Univ 7
+- Univ MCR 1
+- Balliol J 3
+- Madg J 14
+- Keble JCR 1
+- Corpus 4
+- Corpus 2
+- Merton 2
+- ChCh 8
+- SEH 10
+- Mans 9
+- Somerville 5
+- Pmb 4
+- LMH 1
+- Merton 9
+- Balliol M 8
+- Mans 3
+- Lincoln 1
+- St Hildas 1
+- Wadham 2
+- New 2
+- Jesus 15
+- Balliol J 1
+- Trinity M 2
+- Som 8
+- Worc 23
+- Queens 1
+- Worc 17
+- Mans 26
+- Pmb 13
+- Univ 10
+- Worc 6
+- Magd 7
+- Balliol MCR 12
+- Wolfson 2
+- Worc 3
+- Trinity MCR 1
+- Queens 11
+- New 3
+- Oriel 2
+- Keble JCR 17
+- Jesus 11
+- Trinity 2
+- Keble MCR 2
+- Worc 2
+- Teddy Hall 2
+- St Catz 11
+- Trinity 5
+- St Peters 9
+- New 10
+- Jesus 5
+- Wadham 12
+- STB 1
+- Wolfson 1
+- Trinity 20
+- Balliol MCR 14
+- Keble JCR 20
+- St Peters 2
+- ChCh 13
+- Worc 33
+- SEH 7
+- St Peters 8
+- Trinity 11
+- Keble MCR 1
+- Trinity 1
+- Magd J 2
+- New 17
+- Trin 19
+- Pmb 1
+- Exeter 9
+- Worc 11
+- Merton 4
+- Madg J 5
+- Worc 31
+- Wadham 21
+- Exeter 19
+- St Hildas 4
+- Worc 4
+- Merton 1
+- Brasenose 12
+- Wadham 10
+- Trinity 9
+- New 6
+- SEH 3
+- Exeter 1
+- Pmb 14
+- Brase 3
+- New 4
+- St Catz 2
+- STB 5
+- Mans 27
+- Queens 2
+- Mans 24
+- ChCh 7
+- Wadham 14
+- Pmb 30
+- St Peters 5
+- Exeter 16
+- Wadham 9
+- Merton 13
+
+<!-- -->
+
+- Round 4
+- Harris M 4
+- Harris M 1
+- Oriel 3
+- Madg J 3
+- St Peters 6
+- Trinity 4
+- Univ 1
+- Worc 5
+- Oriel 1
+- Pmb 35
+- Pmb 11
+- Balliol JCR 8
+- Green 1
+- Wadham 16
+- Univ MCR 1
+- Madg J 14
+- Keble JCR 1
+- Merton 2
+- ChCh 8
+- Mans 9
+- LMH 1
+- Merton 9
+- Mans 3
+- St Hildas 1
+- New 2
+- Trinity M 2
+- Som 8
+- Queens 1
+- Mans 26
+- Worc 6
+- Balliol MCR 12
+- Worc 3
+- Trinity MCR 1
+- Oriel 2
+- Jesus 11
+- Trinity 2
+- Worc 2
+- Trinity 5
+- New 10
+- Wadham 12
+- STB 1
+- Trinity 20
+- St Peters 2
+- ChCh 13
+- St Peters 8
+- Keble MCR 1
+- Trinity 1
+- Trin 19
+- Pmb 1
+- Merton 4
+- Worc 31
+- Wadham 21
+- Worc 4
+- Brasenose 12
+- Trinity 9
+- SEH 3
+- Exeter 1
+- New 4
+- STB 5
+- Queens 2
+- ChCh 7
+- Pmb 30
+- St Peters 5
+- Merton 13
+
+<!-- -->
+
+- Round 5
+- Harris M 1
+- Oriel 3
+- Trinity 4
+- Univ 1
+- Oriel 1
+- Balliol JCR 8
+- Green 1
+- Madg J 14
+- Keble JCR 1
+- Mans 9
+- LMH 1
+- St Hildas 1
+- Trinity M 2
+- Queens 1
+- Worc 6
+- Worc 3
+- Trinity MCR 1
+- Trinity 2
+- Worc 2
+- Wadham 12
+- STB 1
+- St Peters 2
+- Keble MCR 1
+- Trinity 1
+- Merton 4
+- Worc 31
+- Brasenose 12
+- Trinity 9
+- New 4
+- STB 5
+- ChCh 7
+- Merton 13
+
+<!-- -->
+
+- Round 6
+- Oriel 3
+- Trinity 4
+- Oriel 1
+- Magd J 14
+- Mans 9
+- St Hildas 1
+- Queens 1
+- Worc 3
+- Trinity MCR 1
+- Worc 2
+- STB 1
+- Keble MCR 1
+- Merton 4
+- Brasenose 12
+- STB 5
+- ChCh 7
+
+<!-- -->
+
+- Round 7
+- Oriel 3
+- Magd J 14
+- Mans 9
+- Queens 1
+- Trinity MCR 1
+- Keble MCR 1
+- Brasenose 12
+- STB 5
+
+<!-- -->
+
+- Round 8
+- Oriel 3
+- Mans 9
+- Keble MCR 1
+- Brasenose 12
+
+<!-- -->
+
+- Round 9
+- Mans 9
+- Keble MCR 1

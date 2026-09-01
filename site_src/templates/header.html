@@ -1,0 +1,27 @@
+<header class="site-header">
+  <div class="nav-shell">
+    <a class="brand" href="{{ home_url }}" aria-label="OUACC home">
+      <img class="brand-mark" src="{{ root }}OUCC_CREST.png" alt="OUACC crest">
+      <span>
+        <span class="brand-name">OUACC</span>
+        <span class="brand-subtitle">Oxford University<br>Association Croquet Club</span>
+        <span class="brand-year">Established 1867</span>
+      </span>
+    </a>
+    <nav class="main-nav" id="main-nav" aria-label="Primary navigation">
+      <a href="{{ home_url }}"{% if current == 'home' %} class="active"{% endif %}>Home</a>
+      {% for group in nav_groups %}
+      <div class="nav-group{% if current_group == group.key %} active{% endif %}">
+        <a class="nav-parent" href="{{ root }}{{ group.index }}">{{ group.label }}</a>
+        <button class="nav-caret" type="button" aria-expanded="false" aria-label="Open {{ group.label }} menu">▾</button>
+        <div class="dropdown-menu">
+          {% for item in group['items'] %}<a href="{{ root }}{{ item.url }}"{% if current == item.url %} aria-current="page"{% endif %}>{{ item.label }}</a>{% endfor %}
+        </div>
+      </div>
+      {% endfor %}
+      <a class="nav-search" href="{{ root }}search.html{% if search_query %}?q={{ search_query }}{% endif %}"{% if current == 'search.html' %} class="active"{% endif %}>Search</a>
+      <a class="nav-join" href="{{ root }}oucc/join.html">Join</a>
+    </nav>
+    <button class="nav-toggle" type="button" aria-controls="main-nav" aria-expanded="false">Menu</button>
+  </div>
+</header>

@@ -1,0 +1,28 @@
+name: Build Oxford production package
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  package:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install build dependencies
+        run: pip install -r requirements.txt
+      - name: Build production site
+        run: python tools/build.py --target production
+      - name: Upload production package
+        uses: actions/upload-artifact@v4
+        with:
+          name: ouacc-production
+          path: production
+          retention-days: 30

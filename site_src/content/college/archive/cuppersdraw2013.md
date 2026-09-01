@@ -1,0 +1,1138 @@
+---
+title: Oxford University Association Croquet Club - Cuppers Draw
+description: Historical material from the Club archive.
+section: 
+source_path: college/archive/cuppersdraw2013.html
+---
+
+<div class="archive-note">
+
+Archive record. Original historical or technical material is retained
+here for reference.
+
+</div>
+
+<div class="archive-note">
+
+Historical material is retained as part of the Club archive.
+Contemporary summaries may be edited, but original records and results
+are preserved.
+
+</div>
+
+The Croquet Association, the national governing body for the sport in
+England and Wales, is pleased to sponsor the Croquet Cuppers and
+delighted that so many have taken part. Many members of Oxford
+University Association Croquet Club have gone on to play in the higher
+levels of competition including several who have represented their
+countries in international teams.
+
+To find the nearest croquet club to your home, where you will be able to
+get more coaching and competitive play, go to
+[www.croquet.org.uk/clubs/](http://www.croquet.org.uk/clubs/) . ![ca
+logo](../../images/CA.png)
+
+The 2013 seeded teams, based on last years competition, are (in order
+from 1st seed to 8th seed): Keble 1, Mansfield 1, Brasenose 1, Oriel 1,
+Trinity 1, Queen's 1, Benet's 1, Magdalen 1
+
+Congratulations to New College 2, 2013 Champions!
+
+- Round 1
+- KEB 1: aran.keable-kinsella@keble.ox.ac.uk
+- Bye - Seed 1
+- PMB 11: nishi.mehta@pmb.ox.ac.uk
+- PMB 6: harry.horner@pmb.ox.ac.uk
+- LIN 6: mitchell.byrne@lincoln.ox.ac.uk
+- STB 4: joshua.atkinson@stb.ox.ac.uk
+- TRI 21: fabian.burnettsmall@trinity.ox.ac.uk
+- WRC 33: samuel.thomas@worc.ox.ac.uk
+- WRC 2: robert.moss@worc.ox.ac.uk
+- WRC 23: rajan.choudhary@worc.ox.ac.uk
+- LIN 5: adam.montague@lincoln.ox.ac.uk
+- SPC 8: elizabeth.stockdale@spc.ox.ac.uk
+- HUG 2: frederick.shaw@st-hughs.ox.ac.uk
+- MGD 8: mohammad.wadud@magd.ox.ac.uk
+- PMB 31: samuel.dumigan@pmb.ox.ac.uk
+- MER 8: jack.austin@merton.ox.ac.uk
+- WLF 1: michael.cameron@wolfson.ox.ac.uk
+- HUG 4: thomas.pope@st-hughs.ox.ac.uk
+- KEB 23: rishi.majithia@keble.ox.ac.uk
+- KEB 3: eshan.shah@keble.ox.ac.uk
+- MAN 17: catriona.jones@mansfield.ox.ac.uk
+- HUG 5: colette.parker@st-hughs.ox.ac.uk
+- EXE 9: noah.hillyard@exeter.ox.ac.uk
+- BAL 6: kelly.brotherhood@balliol.ox.ac.uk
+- UNI 1: lukas.twist@univ.ox.ac.uk
+- SEH 12: hector.bagley@seh.ox.ac.uk
+- WAD 6: mirela.ivanova@wadh.ox.ac.uk
+- BNC 11: fleming.puckett@yahoo.com
+- KEB 33: anna.hubbard@keble.ox.ac.uk
+- EXE 16: bonnie.gammer@exeter.ox.ac.uk
+- UNI 3: paul.cheston@univ.ox.ac.uk
+- BAL 8: robert.snell@balliol.ox.ac.uk
+- BAL 1: yuval.fertig@balliol.ox.ac.uk
+- UNI 7: philip.brooks@univ.ox.ac.uk
+- BAL 3: adam.laycock@balliol.ox.ac.uk
+- PMB 23: jonathon.oliver@pmb.ox.ac.uk
+- SEH 4: david.hewitt@seh.ox.ac.uk
+- MGD 11: nicholas.whitney@magd.ox.ac.uk
+- UNI 6: krista.sirola@univ.ox.ac.uk
+- CCC 5: alexander.law@ccc.ox.ac.uk
+- CAT 2: pablo.simko@stcatz.ox.ac.uk
+- PMB 25: christopher.stromeyer@pmb.ox.ac.uk
+- SPC 13: samuel.gebreselassie@spc.ox.ac.uk
+- SEH 8: angus.maudslay@seh.ox.ac.uk
+- OSL 8: hamish.macdonald@wadh.ox.ac.uk
+- SJC 4: sean.cannon@sjc.ox.ac.uk
+- TRI 3: alexander.stevenson@trinity.ox.ac.uk
+- RPC 4: miriam.hargreaves@regents.ox.ac.uk
+- MER 1: cosmo.grant@merton.ox.ac.uk
+- CCC 9: daniel.shearer@ccc.ox.ac.uk
+- MAN 12: calin.mocanu@mansfield.ox.ac.uk
+- WRC 14: nicholas.booth@worc.ox.ac.uk
+- EXE 8: eleanor.shallow@exeter.ox.ac.uk
+- BNC 16: astrid.nestius-brown@bnc.ox.ac.uk
+- WRC 12: george.pidgeon@worc.ox.ac.uk
+- HIL 4: wilson.hill@st-hildas.ox.ac.uk
+- EXE 2: joseph.mills@exeter.ox.ac.uk
+- SEH 13: christopher.pike@seh.ox.ac.uk
+- SEH 9: martin.platais@seh.ox.ac.uk
+- TRI 20: rosemary.harker@trinity.ox.ac.uk
+- SPC 10: sophie.perry@spc.ox.ac.uk
+- TRI 9: ben.lake@trinity.ox.ac.uk
+- MAN 8: samuel.knight@mansfield.ox.ac.uk
+- SPC 7: andrew.cairns@spc.ox.ac.uk
+- MGD 1: hugh.stevens@magd.ox.ac.uk
+- Bye - Seed 8
+- BAL 4: thomas.wainford@balliol.ox.ac.uk
+- NEW 5: anna.spencer@new.ox.ac.uk
+- CHR 8: cosima.stewart@chch.ox.ac.uk
+- SPC 4: costas.tsiappourdhi@spc.ox.ac.uk
+- SJC 7: joseph.larvin@sjc.ox.ac.uk
+- PMB 30: tomos.watkins@pmb.ox.ac.uk
+- PMB 2: ella.stgeorgecarey@pmb.ox.ac.uk
+- TRI 15: cathy.mason@trinity.ox.ac.uk
+- OSL 10: james.kennedy@new.ox.ac.uk
+- EXE 6: laura.spence@exeter.ox.ac.uk
+- SJC 2: adam.kashani@sjc.ox.ac.uk
+- QNS 19: solomon.white@queens.ox.ac.uk
+- BAL 9: jamie.mawhinney@balliol.ox.ac.uk
+- EXE 12: mateusz.slomka@exeter.ox.ac.uk
+- EXE 1: tim.davies@exeter.ox.ac.uk
+- CHR 4: joshua.peppiatt@chch.ox.ac.uk
+- KEB 6: michael.leung@keble.ox.ac.uk
+- PMB 17: ujwal.shreyas@pmb.ox.ac.uk
+- PMB 22: johannes.kniess@pmb.ox.ac.uk
+- ORL 16: matilda.rhode@oriel.ox.ac.uk
+- WRC 8: david.huggins@worc.ox.ac.uk
+- HRT 7: alice.vacani@hertford.ox.ac.uk
+- BAL M 1: seb.pike@balliol.ox.ac.uk
+- EXE 13: harry.davies@exeter.ox.ac.uk
+- CAT 8: molly.brown@stcatz.ox.ac.uk
+- MER 5: richard.mathers@merton.ox.ac.uk
+- SPC 3: rory.horswell@spc.ox.ac.uk
+- CAT 4: beatrice.cooke@stcatz.ox.ac.uk
+- BAL 7: christopher.parr@balliol.ox.ac.uk
+- CHR 11: alexandra.rollings@chch.ox.ac.uk
+- LMH M 1: bhaveet.radia@education.ox.ac.uk
+- HUG 7: felix.light@st-hughs.ox.ac.uk
+- WAD 3: ed.klinger@wadh.ox.ac.uk
+- EXE 23: kristian.fox@exeter.ox.ac.uk
+- WRC 18: emma.fox@worc.ox.ac.uk
+- BNC 3: alastair.graves@bnc.ox.ac.uk
+- CAT 6: ruby.byrne@stcatz.ox.ac.uk
+- WAD 15: luke.buckley@wadh.ox.ac.uk
+- WAD 2: kieran.lucia@wadh.ox.ac.uk
+- MAN 18: lucy.long@mansfield.ox.ac.uk
+- KEB 26: jmlefko@uga.edu
+- QNS 18: jessica.edwards@queens.ox.ac.uk
+- GTC 2: matthew.davies@gtc.ox.ac.uk
+- NEW 3: laura.vandererve@new.ox.ac.uk
+- PMB 13: alexander.morse@pmb.ox.ac.uk
+- WRC 6: ruth.munglani@worc.ox.ac.uk
+- HMC 1: ian.clemente@hmc.ox.ac.uk
+- KEB 20: polly.rogers@keble.ox.ac.uk
+- MGD 13: claudia.havranek@magd.ox.ac.uk
+- HIL 3: victoria.howard@st-hildas.ox.ac.uk
+- KEB 31: ruairidh.battleday@keble.ox.ac.uk
+- EXE 7: fredrik.holmgren@exeter.ox.ac.uk
+- KEB 10: kieran.hyatt@keble.ox.ac.uk
+- TRI 13: oliver.humphries@trinity.ox.ac.uk
+- MGD 2: duncan.graves@magd.ox.ac.uk
+- MAN 13: rebecca.dellar@mansfield.ox.ac.uk
+- WRC 28: samuel.ravenscroft@worc.ox.ac.uk
+- HMC 3: wanjiru.ngige@hmc.ox.ac.uk
+- WRC 27: christopher.phillips-hart@worc.ox.ac.uk
+- KEB 29: sarah.worsley@keble.ox.ac.uk
+- JES 5: matthew.blundell@jesus.ox.ac.uk
+- PMB 29: kayleigh.hubbbard@pmb.ox.ac.uk
+- ORL 1: thomas.onslow@oriel.ox.ac.uk
+- Bye - Seed 4
+- BNC 9: thomas.wait@bnc.ox.ac.uk
+- MAN 5: robbie.peck@mansfield.ox.ac.uk
+- QNS 10: jun.goh@queens.ox.ac.uk
+- ORL 6: alice.correiamorton@oriel.ox.ac.uk
+- PMB 26: james.hamel@pmb.ox.ac.uk
+- KEB 18: philip.dorrell@keble.ox.ac.uk
+- SEH 2: henry.richardsonbanks@seh.ox.ac.uk
+- CHR 16: georgia.lotter@chch.ox.ac.uk
+- EXE 21: nathan.ellis@exeter.ox.ac.uk
+- WAD 11: lia.orlando@wadh.ox.ac.uk
+- MAN 2: james.fisher@mansfield.ox.ac.uk
+- WAD 12: adam.roberts@wadh.ox.ac.uk
+- BAL M 9: michael.bennett@balliol.ox.ac.uk
+- EXE 24: jakob.dowse@exeter.ox.ac.uk
+- NEW 1: jacob.shah@new.ox.ac.uk
+- CAT 11: brandan.rivard@stcatz.ox.ac.uk
+- PMB 16: meghan.campbell@pmb.ox.ac.uk
+- OSL 13: holly.harris@seh.ox.ac.uk
+- BNC 4: anna.broadley@bnc.ox.ac.uk
+- OSL 11: michael.weeks@new.ox.ac.uk
+- EXE 22: ralph.spencer-tucker@exeter.ox.ac.uk
+- TRI 7: conor.kennedy@trinity.ox.ac.uk
+- WAD 1: tom.dewilton@wadh.ox.ac.uk
+- TRI 11: nihar.dalmia@mba2012.sbs.oxford.edu
+- ORL 17: darren.vanning@oriel.ox.ac.uk
+- OSL 14: rebecca.adamson@wadh.ox.ac.uk
+- JES 7: ashleigh.tilley@jesus.ox.ac.uk
+- SJC 3: timothy.ang@sjc.ox.ac.uk
+- KEB 9: felix.hamer@keble.ox.ac.uk
+- ORL 7: david.skuse@oriel.ox.ac.uk
+- SEH 1: theodore.silkstonecarter@seh.ox.ac.uk
+- SEH 14: abishai.thomas@seh.ox.ac.uk
+- MGD 6: james.common@magd.ox.ac.uk
+- HUG 10: bethan.gregory@st-hughs.ox.ac.uk
+- NEW 11: harry.jewson@new.ox.ac.uk
+- RPC 3: william.tomsett@regents.ox.ac.uk
+- KEB 13: james.hardie@keble.ox.ac.uk
+- KEB 27: joe.jordan@keble.ox.ac.uk
+- NEW 2: william.mycroft@new.ox.ac.uk
+- KEB 5: thomas.phillips@keble.ox.ac.uk
+- MER 9: katherine.molyneux@merton.ox.ac.uk
+- WRC 16: benedict.graves@worc.ox.ac.uk
+- CHR 9: jack.wightman@chch.ox.ac.uk
+- PMB 14: leo.barnes@pmb.ox.ac.uk
+- TRI 4: alan.miscampbell@trinity.ox.ac.uk
+- WLF 3: sarah.mckeever@wolfson.ox.ac.uk
+- SOM 1: dominic.stanford@some.ox.ac.uk
+- MGD 4: shaan.tehal@magd.ox.ac.uk
+- QNS 23: holly.cuthbert@queens.ox.ac.uk
+- CHR 12: alice.tusa@chch.ox.ac.uk
+- QNS 13: luca.bertoli-mitchell@queens.ox.ac.uk
+- QNS 5: hugh.handy@queens.ox.ac.uk
+- WRC 4: sarah.payne@worc.ox.ac.uk
+- ORL 3: innes.taylor@oriel.ox.ac.uk
+- QNS 2: nathan.tongue@queens.ox.ac.uk
+- MAN 6: adrea.piazza@mansfield.ox.ac.uk
+- TRI 17: kyran.schmidt@trinity.ox.ac.uk
+- LIN 7: anthony.jones@lincoln.ox.ac.uk
+- SEH 5: benjamin.dobson@seh.ox.ac.uk
+- BAL 11: benjamin.marshall@balliol.ox.ac.uk
+- NEW 13: Izabela.Karasinska-Stanley@new.ox.ac.uk
+- EXE 11: subhash.kachhwaha@exeter.ox.ac.uk
+- TRI 1: jordan.waters@trinity.ox.ac.uk
+- Bye - Seed 5
+- OSL 16: edward.lent@keble.ox.ac.uk
+- EXE 15: adam.baxter@exeter.ox.ac.uk
+- MER 7: natasha.stotesbury@merton.ox.ac.uk
+- QNS 7: rachel.dobbs@queens.ox.ac.uk
+- MAN 7: nastassia.dhanraj@mansfield.ox.ac.uk
+- KEB 19: james.gardener@keble.ox.ac.uk
+- STB 2: orme.clarke@stb.ox.ac.uk
+- ORL 8: emily.smith@oriel.ox.ac.uk
+- PMB 35: peter.musson@pmb.ox.ac.uk
+- QNS 11: robert.griffiths@queens.ox.ac.uk
+- BAL M 2: samuel.harrison@balliol.ox.ac.uk
+- NEW 12: felix.huesken@new.ox.ac.uk
+- BNC 13: nicolas.koslover@bnc.ox.ac.uk
+- CHR 19: eleanor.swift@chch.ox.ac.uk
+- GTC 1: rodolfo.catena@gtc.ox.ac.uk
+- WRC 9: kirsty.iredale@worc.ox.ac.uk
+- MAN 15: matthew.bradbury@mansfield.ox.ac.uk
+- KEB 2: eleanor.edge@keble.ox.ac.uk
+- BNC 18: aska.ross@bnc.ox.ac.uk
+- CCC 4: george.berridge@ccc.ox.ac.uk
+- CHR 10: christy.reynolds@chch.ox.ac.uk
+- NEW 20: rosie.powelldavies@new.ox.ac.uk
+- OSL 1: sameer.ganatra@magd.ox.ac.uk
+- KEB 25: benjamin.haveron@keble.ox.ac.uk
+- SPC 11: sarah.fan@spc.ox.ac.uk
+- MER 4: matt.booth@merton.ox.ac.uk
+- LIN 8: marco.alessi@lincoln.ox.ac.uk
+- WRC 30: daniel.lowry@worc.ox.ac.uk
+- QNS 17: evangeline.atkinson@queens.ox.ac.uk
+- KEB 14: alexander.stefanou@keble.ox.ac.uk
+- RPC 1: samuel.hurst@regents.ox.ac.uk
+- WAD 10: anna.bradshaw@wadh.ox.ac.uk
+- PMB 18: francisco.quevedocamargo@maths.ox.ac.uk
+- UNI 4: sophie.lucas@univ.ox.ac.uk
+- MGD 16: max.long@magd.ox.ac.uk
+- CHR 17: oliver.schofield@chch.ox.ac.uk
+- CAT 14: ben.trigg@stcatz.ox.ac.uk
+- PMB 8: emily.lindsay@pmb.ox.ac.uk
+- CHR 2: charles.bridge@chch.ox.ac.uk
+- LIN 3: kitty.oneill@lincoln.ox.ac.uk
+- WRC 21: ella.harley@worc.ox.ac.uk
+- KEB 8: matthew.gompels@keble.ox.ac.uk
+- BNC 2: joshua.laban@bnc.ox.ac.uk
+- SJC 10: flora.sheldon@sjc.ox.ac.uk
+- BAL 10: rachel.harpole@balliol.ox.ac.uk
+- CAT 10: shan.chang@stcatz.ox.ac.uk
+- CCC 1: chloe.farrar@ccc.ox.ac.uk
+- NEW 17: paul.wilmore@new.ox.ac.uk
+- QNS 4: jonathan.lindfield@queens.ox.ac.uk
+- CHR 6: abigail.schofield@chch.ox.ac.uk
+- KEB 28: talfan.evans@keble.ox.ac.uk
+- BNC 12: danai.kyriakopoulou@bnc.ox.ac.uk
+- STB 3: sanesh.mistry@stb.ox.ac.uk
+- CAT 15: alice.angliss@stcatz.ox.ac.uk
+- HMC 2: wladimir.nikoluk@hmc.ox.ac.uk
+- NEW 15: joel.mann@new.ox.ac.uk
+- PMB 19: richard.yates@pmb.ox.ac.uk
+- EXE 20: catherine.gillespie@exeter.ox.ac.uk
+- MAN 3: matilda.slight@mansfield.ox.ac.uk
+- KEB 11: barbara.bell@keble.ox.ac.uk
+- QNS 21: sophie.collins@queens.ox.ac.uk
+- CHR 3: sabian.chauhan@chch.ox.ac.uk
+- MAN 1: samuel.firman@mansfield.ox.ac.uk
+- Bye - Seed 2
+- HUG 6: nicola.milburn@st-hughs.ox.ac.uk
+- PMB 12: cian.wade@pmb.ox.ac.uk
+- JES 4: andrew.lindsay@jesus.ox.ac.uk
+- OSL 7: james.whittington@spc.ox.ac.uk
+- SOM 7: michael.davies@some.ox.ac.uk
+- KEB 17: thomas.last@keble.ox.ac.uk
+- HRT 2: rajkiran.barhey@hertford.ox.ac.uk
+- KEB 32: eleanor.jaskowska@keble.ox.ac.uk
+- WAD 9: alistair.johnson@wadh.ox.ac.uk
+- BAL M 4: stephen.gaw@balliol.ox.ac.uk
+- UNI 2: james.morrison@univ.ox.ac.uk
+- MGD 18: helen.long@magd.ox.ac.uk
+- TRI 18: constance.thurlow@trinity.ox.ac.uk
+- KEB 24: cornelius.christian@keble.ox.ac.uk
+- ANN 1: patrick.stockwell@st-annes.ox.ac.uk
+- MGD 12: jasmine.ramsaygray@magd.ox.ac.uk
+- PMB 24: rebecca.henshaw@pmb.ox.ac.uk
+- KEB 7: james.marchant@keble.ox.ac.uk
+- WAD 14: hannah.smith@wadh.ox.ac.uk
+- OSL 4: arvind.singhal@bnc.ox.ac.uk
+- NEW 16: danielle.ellenby@new.ox.ac.uk
+- QNS 8: toby.webster@queens.ox.ac.uk
+- CMP 1: john.coverdale@campion.ox.ac.uk
+- ORL 19: benjamin.symington@oriel.ox.ac.uk
+- MGD 9: albert.wood@magd.ox.ac.uk
+- CHR 7: lawrence.houldsworth@chch.ox.ac.uk
+- WRC 13: patrick.scott@worc.ox.ac.uk
+- EXE 3: thomas.coy@exeter.ox.ac.uk
+- KEB 22: owen.beckett@keble.ox.ac.uk
+- EXE 19: sian.davies@exeter.ox.ac.uk
+- LIN 1: robert.herrod@lincoln.ox.ac.uk
+- WAD 8: charlotte.goodman@wadh.ox.ac.uk
+- ORL 14: elizabeth.duncan@oriel.ox.ac.uk
+- ORL 5: nika.jones@oriel.ox.ac.uk
+- HMC 4: jessica.wright@hmc.ox.ac.uk
+- HUG 11: luis.glaeser@st-hughs.ox.ac.uk
+- QNS 20: emily.giles@queens.ox.ac.uk
+- BNC 8: sarah.abdoo@bnc.ox.ac.uk
+- OSL 2: felicity.devere@wadh.ox.ac.uk
+- SOM 5: timothy.williams@some.ox.ac.uk
+- SOM 4: amelia.hamer@some.ox.ac.uk
+- TRI 23: benjamin.morrell@trinity.ox.ac.uk
+- SPC 12: martin.leggett@spc.ox.ac.uk
+- SEH 7: thomas.archer@seh.ox.ac.uk
+- SPC 5: louise.burn@spc.ox.ac.uk
+- QNS 6: taylor.knight@queens.ox.ac.uk
+- PMB 1: arthur.knaggs@pmb.ox.ac.uk
+- NEW 18: emma.parkin@new.ox.ac.uk
+- WRC 24: miranda.elvidge@worc.ox.ac.uk
+- EXE 17: john.ryan@exeter.ox.ac.uk
+- BNC 6: maria.fleischer@bnc.ox.ac.uk
+- NEW 10: jessica.bone@new.ox.ac.uk
+- WRC 20: lewis.morgan@worc.ox.ac.uk
+- HIL 5: james.aylward@st-hildas.ox.ac.uk
+- JES 2: sarah.coombes@jesus.ox.ac.uk
+- OSL 9: benjamin.stewart@merton.ox.ac.uk
+- CHR 14: zoe.coopersutton@chch.ox.ac.uk
+- HRT 11: miranda.essex@hertford.ox.ac.uk
+- MER 6: ikhuemose.ikhena@merton.ox.ac.uk
+- TRI 19: helen.owen@trinity.ox.ac.uk
+- TRI 22: erin.dexter@trinity.ox.ac.uk
+- SOM 3: thomas.smith@some.ox.ac.uk
+- STB 1: james.charteris-black@stb.ox.ac.uk
+- Bye - Seed 7
+- MGD 17: greg.moreton-smith@magd.ox.ac.uk
+- WRC 31: dennis.wang@worc.ox.ac.uk
+- JES 6: james.walker@jesus.ox.ac.uk
+- TRI 16: georgia.watson@trinity.ox.ac.uk
+- BNC 15: caroline.greenfield@bnc.ox.ac.uk
+- PMB 4: george.brighten@pmb.ox.ac.uk
+- SOM 2: michael.brett@some.ox.ac.uk
+- CAT 7: poppy.simmonds@stcatz.ox.ac.uk
+- WRC 29: eileen.coughlan@worc.ox.ac.uk
+- SPC 9: caitlin.mcardle@spc.ox.ac.uk
+- TRI 2: joseph.robinson@trinity.ox.ac.uk
+- MAN 16: sarab.sethi@mansfield.ox.ac.uk
+- MAN 9: daniel.shipley@mansfield.ox.ac.uk
+- SOM 6: daniel.yon@some.ox.ac.uk
+- HRT 1: sarah.mckinnon@hertford.ox.ac.uk
+- QNS 3: ashley.francis-roy@queens.ox.ac.uk
+- BNC 19: max.smeets@bnc.ox.ac.uk
+- EXE 4: rebecca.musgrove@exeter.ox.ac.uk
+- TRI 6: adam.carter@trinity.ox.ac.uk
+- BAL M 6: spencerheijnen@gmail.com
+- HRT 3: alexander.monk@hertford.ox.ac.uk
+- MGD 19: samuel.thompson@magd.ox.ac.uk
+- WRC 1: daniel.willoughby@worc.ox.ac.uk
+- CHR 18: anna.hughes@chch.ox.ac.uk
+- CHR 13: charles.malton@chch.ox.ac.uk
+- HUG 3: william.golightly@st-hughs.ox.ac.uk
+- MGD 7: jack.trigger@magd.ox.ac.uk
+- KEB 34: william.mason@keble.ox.ac.uk
+- WAD 7: geetanjali.normandale@wadh.ox.ac.uk
+- MGD 14: jessica.whitmore@magd.ox.ac.uk
+- CHR 1: rowan.callinan@chch.ox.ac.uk
+- ORL 13: jeremy.libre@oriel.ox.ac.uk
+- SJC 9: maxwell.ramsay@sjc.ox.ac.uk
+- TRI 24: iman.ahmedani@trinity.ox.ac.uk
+- MER 3: mark.vanloon@merton.ox.ac.uk
+- CCC 3: alastair.marsh@ccc.ox.ac.uk
+- ORL 18: ianthe.greenwood@oriel.ox.ac.uk
+- HRT 8: amelia.green@hertford.ox.ac.uk
+- ORL 2: max.lau@oriel.ox.ac.uk
+- BNC 7: jack.l.carlson@gmail.com
+- MGD 10: alasdair.griffett@magd.ox.ac.uk
+- HRT 9: evangeline.howorth@hertford.ox.ac.uk
+- HIL 2: harry.browne@st-hildas.ox.ac.uk
+- TRI 14: daniela.piper-vegh@trinity.ox.ac.uk
+- HUG 9: charlotte.hempstead@st-hughs.ox.ac.uk
+- CAT 12: shuesken@college.harvard.edu
+- LMH 1: david.ormrodmorley@lmh.ox.ac.uk
+- QNS 14: andrew.russell@queens.ox.ac.uk
+- SEH 10: henry.wilkinson@seh.ox.ac.uk
+- HRT 4: filippa.ronquist@hertford.ox.ac.uk
+- TRI 5: elinor.pennicott@trinity.ox.ac.uk
+- ORL 4: luke.tullo@oriel.ox.ac.uk
+- CAT 3: poppy.lambert@stcatz.ox.ac.uk
+- HUG 8: venkat.kondragunta@st-hughs.ox.ac.uk
+- ANN 2: isabelle.gerretsen@st-annes.ox.ac.uk
+- QNS 9: michelle.van@queens.ox.ac.uk
+- OSL 3: katie.myint@jesus.ox.ac.uk
+- NEW 14: katherine.nicholls@new.ox.ac.uk
+- HRT 6: francis.martin@hertford.ox.ac.uk
+- TRI 10: jessica.small@trinity.ox.ac.uk
+- KEB 21: emilie.brignall@keble.ox.ac.uk
+- WRC 34: emily.firmston@worc.ox.ac.uk
+- BNC 1: james.lindsay@bnc.ox.ac.uk
+- Bye - Seed 3
+- CCC 8: david.bell@ccc.ox.ac.uk
+- SPC 14: oscar.reid@spc.ox.ac.uk
+- NEW 21: nicholas.demulder@new.ox.ac.uk
+- CAT 13: nicole.evans@stcatz.ox.ac.uk
+- SEH 6: taariq.ismail@seh.ox.ac.uk
+- WRC 11: emily.frost@worc.ox.ac.uk
+- RPC 2: alexander.figurski@regents.ox.ac.uk
+- WRC 5: elizabeth.thompson@worc.ox.ac.uk
+- BNC 10: thomas.volker@bnc.ox.ac.uk
+- KEB 15: bethan.poole@keble.ox.ac.uk
+- WLF 2: matthew.naiman@wolfson.ox.ac.uk
+- PMB 33: marco.mancuso-marcello@pmb.ox.ac.uk
+- MAN 10: thomas.bates@mansfield.ox.ac.uk
+- ORL 9: joseph.evans@oriel.ox.ac.uk
+- JES 1: toby.mather@jesus.ox.ac.uk
+- BNC 5: louise.meredith@bnc.ox.ac.uk
+- QNS 22: james.lam@queens.ox.ac.uk
+- HRT 12: amber.westerholm-smyth@hertford.ox.ac.uk
+- PMB 28: theodore.wye@pmb.ox.ac.uk
+- WLF 4: sasja.christensen@wolfson.ox.ac.uk
+- ORL 15: eleanor.jones@oriel.ox.ac.uk
+- PMB 20: safiah.chowdhury@pmb.ox.ac.uk
+- HUG 1: michael.holloway@st-hughs.ox.ac.uk
+- MAN 11: franziska.kirschner@mansfield.ox.ac.uk
+- NEW 7: erika.lam@new.ox.ac.uk
+- MAN 14: pippa.reid@mansfield.ox.ac.uk
+- PMB 15: robin.bast@pmb.ox.ac.uk
+- OSL 15: alexandra.barry@new.ox.ac.uk
+- JES 3: joshua.berkley@jesus.ox.ac.uk
+- PMB 34: annie.smith@pmb.ox.ac.uk
+- CAT 1: scott.tully@stcatz.ox.ac.uk
+- MGD 5: kabir.bali@magd.ox.ac.uk
+- SJC 6: rosa.cheesman@sjc.ox.ac.uk
+- BAL M 3: john.jordan@balliol.ox.ac.uk
+- KEB 4: helena.copely@keble.ox.ac.uk
+- PMB 10: andrew.humphrey@pmb.ox.ac.uk
+- UNI 8: abigail.reeves@univ.ox.ac.uk
+- WRC 22: robert.heywood@worc.ox.ac.uk
+- LMH 2: william.bolton@lmh.ox.ac.uk
+- WRC 25: hester.burn@worc.ox.ac.uk
+- EXE 5: eve.dimery@exeter.ox.ac.uk
+- KEB 12: emma.alexander@keble.ox.ac.uk
+- MGD 15: timothy.lintern@magd.ox.ac.uk
+- CHR 15: theo.oulton@chch.ox.ac.uk
+- CCC 6: william.glover@ccc.ox.ac.uk
+- EXE 10: abigail.adams@exeter.ox.ac.uk
+- STX 1: robert.fink@stx.ox.ac.uk
+- BAL 5: isaac.rose@balliol.ox.ac.uk
+- ORL 10: hugh.acland@oriel.ox.ac.uk
+- WRC 10: julius.ossenberg-engels@worc.ox.ac.uk
+- LIN 4: raphael.torrance@lincoln.ox.ac.uk
+- ORL 12: dylan.milner-stopps@oriel.ox.ac.uk
+- HRT 5: justin.hubbard@hertford.ox.ac.uk
+- MGD 21: abigail.enlander@magd.ox.ac.uk
+- CCC 2: ian.headley@ccc.ox.ac.uk
+- CCC 10: jgillespie175@gmail.com
+- BAL M 7: shamim.gammage@balliol.ox.ac.uk
+- WRC 7: nicholas.williams@worc.ox.ac.uk
+- WRC 32: adam.speake@worc.ox.ac.uk
+- NEW 9: steven.donlon@new.ox.ac.uk
+- SEH 3: freya.tomley@seh.ox.ac.uk
+- JES 8: dafydd.roberts-harry@jesus.ox.ac.uk
+- QNS 1: yuhao.zhang@queens.ox.ac.uk
+- Bye - Seed 6
+- QNS 15: rachel.hanley@queens.ox.ac.uk
+- BAL M 10: brshephe@gmail.com
+- WAD 4: alistair.farley@wadh.ox.ac.uk
+- EXE 18: will.edwards@exeter.ox.ac.uk
+- OSL 5: aakash.amlani@gtc.ox.ac.uk
+- ORL 11: ciaran.cassidy@oriel.ox.ac.uk
+- SPC 2: richard.hall@spc.ox.ac.uk
+- QNS 12: clarissa.kayser@queens.ox.ac.uk
+- BAL M 5: ramtinamin@gmail.com
+- EXE 14: thomas.taylor@exeter.ox.ac.uk
+- LIN 2: marion.bettsworth@lincoln.ox.ac.uk
+- SEH 11: samuel.lovell@seh.ox.ac.uk
+- NEW 19: alexander.ockenden@new.ox.ac.uk
+- UNI 5: stuart.perrett@univ.ox.ac.uk
+- SJC 1: thomas.ough@sjc.ox.ac.uk
+- MAN 4: eleanor.lacey@mansfield.ox.ac.uk
+- NEW 6: oliver.bainbridge@new.ox.ac.uk
+- PMB 9: theo.taylor@pmb.ox.ac.uk
+- CHR 5: thomas.fetherstonhaugh@chch.ox.ac.uk
+- PMB 27: pravina.rudra@pmb.ox.ac.uk
+- NEW 8: duncan.heagan@new.ox.ac.uk
+- WRC 26: alexander.hunt@worc.ox.ac.uk
+- HIL 1: ben.reavley@st-hildas.ox.ac.uk
+- TRI 12: alex.shavick@trinity.ox.ac.uk
+- PMB 21: rene.niehus@pmb.ox.ac.uk
+- MGD 3: meriwether.beckwith@magd.ox.ac.uk
+- MGD 20: josephine.bentley@magd.ox.ac.uk
+- LIN 9: daniel.sperrin@lincoln.ox.ac.uk
+- OSL 12: amy.zheng@gtc.ox.ac.uk
+- SJC 8: niloy.biswas@sjc.ox.ac.uk
+- SPC 1: oliver.bristowe@spc.ox.ac.uk
+- PMB 7: nicholas.koeniger@pmb.ox.ac.uk
+- PMB 5: daniel.pennington@pmb.ox.ac.uk
+- NEW 4: robert.hunt46@gmail.com
+- WRC 3: william.gewanter@worc.ox.ac.uk
+- WAD 13: bijan.rafraf@wadh.ox.ac.uk
+- WRC 15: isaac.goodwin@worc.ox.ac.uk
+- BNC 14: ihsaan.faisal@bnc.ox.ac.uk
+- MER 2: luke.hughes@merton.ox.ac.uk
+- SJC 5: christopher.burrows@sjc.ox.ac.uk
+- CCC 7: bethany.kingston@ccc.ox.ac.uk
+- CAT 9: peter.mckenna@stcatz.ox.ac.uk
+- KEL 2: michaela.peykovska@anthro.ox.ac.uk
+- ORL 20: cara.cullen@oriel.ox.ac.uk
+- HRT 10: erin.goldfinch@hertford.ox.ac.uk
+- QNS 16: tristram.young@queens.ox.ac.uk
+- KEL 1: michaela.peykovska@anthro.ox.ac.uk
+- CHR 20: rosalind.brody@chch.ox.ac.uk
+- WRC 19: duncan.webb@worc.ox.ac.uk
+- WAD 5: joshua.bappoo@wadh.ox.ac.uk
+- CAT 5: james.windmill@stcatz.ox.ac.uk
+- WRC 17: jim.fouracre@plants.ox.ac.uk
+- BNC 17: harry.allport@bnc.ox.ac.uk
+- KEB 16: thomas.vipond@keble.ox.ac.uk
+- BAL 2: alistair.teeney@balliol.ox.ac.uk
+- PMB 3: joseph.russell@pmb.ox.ac.uk
+- PMB 32: thomas.outram@pmb.ox.ac.uk
+- KEB 30: hannah.gladman@keble.ox.ac.uk
+- SPC 6: tariq.yasin@spc.ox.ac.uk
+- OSL 6: martin.ince@st-hughs.ox.ac.uk
+- TRI 8: emma.walshe@trinity.ox.ac.uk
+- BAL M 8: julian.ensbey@balliol.ox.ac.uk
+
+<!-- -->
+
+- Round 2
+- KEB 1
+- PMB 6
+- LIN 6
+- TRI 21
+- WRC 2
+- LIN 5
+- HUG 2
+- PMB 31
+- WLF 1
+- KEB 23
+- HUG 5
+- EXE 9
+- UNI 1
+- WAD 6
+- KEB 33
+- UNI 3
+- BAL 1
+- BAL 3
+- MGD 11
+- PMB 37\*
+- PMB 25
+- SEH 8
+- SJC 4
+- TRI 3
+- MER 1
+- WRC 14
+- BNC 16
+- WRC 12
+- EXE 2
+- SEH 9
+- TRI 9
+- MAN 8
+- MGD 1
+- BAL 4
+- CHR 8
+- SJC 7
+- PMB 2
+- EXE 6
+- QNS 19
+- BAL 9
+- EXE 1
+- KEB 6
+- ORL 16
+- WRC 8
+- BAL M1
+- MER 5
+- SPC 3
+- BAL 7
+- LMH M1
+- EXE 23
+- BNC 3
+- CAT 6
+- WAD 2
+- KEB 26
+- GTC 2
+- PMB 13
+- HMC 1
+- MGD 13
+- KEB 31
+- KEB 10
+- MGD 2
+- HMC 3
+- WRC 27
+- PMB 29
+- ORL 1
+- MAN 5
+- QNS 10
+- KEB 18
+- CHR 16
+- WAD 11
+- WAD 12
+- BAL M9
+- NEW 1
+- PMB 16
+- OSL 11
+- TRI 7
+- TRI 11
+- OSL 17
+- JES 7
+- KEB 9
+- SEH 1
+- MGD 6
+- RPC 3
+- KEB 27
+- NEW 2
+- WRC 16
+- CHR 9
+- TRI 4
+- SOM 1
+- GTC 3\*
+- BAL 13\*
+- WRC 4
+- QNS 2
+- TRI 17
+- SEH 5
+- EXE 11
+- TRI 1
+- OSL 16
+- QNS 7
+- LMH 3\*
+- ORL 8
+- HUG 13\*
+- NEW 12
+- CHR 19
+- GTC 1
+- PMB 36\*
+- CCC 4
+- HUG M1\*
+- OSL 1
+- MER 4
+- LIN 8
+- KEB 14
+- RPC 1
+- PMB 18
+- CHR 17
+- PMB 8
+- CHR 2
+- KEB 8
+- BNC 2
+- EXE 25\*
+- NEW 17
+- QNS 4
+- BNC 12
+- CAT 15
+- HMC 2
+- BNC 20\*
+- KEB 11
+- QNS 21
+- MAN 1
+- HUG 6
+- JES 4
+- KEB 17
+- KEB 32
+- WAD 9
+- UNI 2
+- KEB 24
+- ANN 1
+- KEB 7
+- OSL 4
+- NEW 16
+- ORL 19
+- CHR 7
+- WRC 13
+- EXE 19
+- WAD 8
+- ORL 14
+- HMC 4
+- QNS 20
+- SOM 5
+- SOM 4
+- SEH 7
+- SPC 5
+- PMB 1
+- WRC 24
+- BNC 6
+- WRC 20
+- OSL 9
+- HRT 11
+- MER 6
+- SOM 3
+- STB 1
+- MGD 17
+- TRI 16
+- PMB 4
+- SOM 2
+- WRC 29
+- TRI 2
+- SOM 6
+- QNS 3
+- NEW 23\*
+- TRI 6
+- HRT 3
+- WRC 1
+- CHR 13
+- KEB 34
+- WAD 7
+- CHR 1
+- SJC 9
+- MER 3
+- HRT 8
+- ORL 2
+- MGD 10
+- HIL 2
+- CAT 12
+- LMH 1
+- SEH 10
+- ORL 4
+- HUG 8
+- NEW M1\*
+- OSL 3
+- HRT 6
+- WRC 34
+- BNC 1
+- LMH 4\*
+- CAT 13
+- SEH 6
+- RPC 2
+- KEB 15
+- WLF 2
+- ORL 9
+- BNC 5
+- QNS 22
+- WLF 4
+- PMB 20
+- HUG 1
+- NEW 7
+- PMB 15
+- JES 3
+- MGD 5
+- BAL M3
+- PMB 10
+- WRC 22
+- LMH 2
+- EXE 5
+- WRC 35\*
+- CCC 6
+- STX 1
+- ORL 10
+- LIN 4
+- HRT 5
+- CCC 10
+- WRC 7
+- NEW 9
+- JES 8
+- QNS 1
+- BNC 21\*
+- WAD 4
+- ORL 11
+- SPC 2
+- EXE 14
+- SEH 11
+- UNI 5
+- SJC 1
+- NEW 6
+- CHR 5
+- WRC 26
+- HIL 1
+- MGD 3
+- MGD 20
+- SJC 8
+- PMB 7
+- NEW 4
+- WAD 13
+- WRC 15
+- SJC 5
+- CAT 9
+- KEL 2
+- HRT 10
+- KEL 1
+- WAD 5
+- WRC 17
+- KEB 16
+- PMB 3
+- PMB 32
+- STX 2\*
+- TRI 8
+
+<!-- -->
+
+- Round 3
+- KEB 1
+- LIN 6
+- WRC 2
+- PMB 31
+- WLF 1
+- HUG 5
+- UNI 1
+- UNI 3
+- BAL 1
+- PMB 37\*
+- PMB 25
+- TRI 3
+- MER 1
+- WRC 12
+- SEH 9
+- MAN 8
+- MGD 1
+- SJC 7
+- PMB 2
+- BAL 9
+- EXE 1
+- ORL 16
+- BAL M1
+- BAL 7
+- LMH M1
+- BNC 3
+- WAD 2
+- PMB 13
+- HMC 1
+- KEB 31
+- MGD 2
+- WRC 27
+- MAN 5
+- KEB 18
+- CHR 16
+- BAL M9
+- NEW 1
+- OSL 11
+- OSL 17
+- KEB 9
+- SEH 1
+- KEB 27
+- NEW 2
+- TRI 4
+- MGD 15\*
+- WRC 4
+- QNS 2
+- SEH 5
+- TRI 1
+- QNS 7
+- ORL 8
+- QNS 23\*
+- GTC 1
+- HUG M1\*
+- MER 4
+- LIN 8
+- RPC 1
+- CHR 17
+- CHR 2
+- BNC 2
+- NEW 17
+- CAT 15
+- HMC 2
+- KEB 11
+- MAN 1
+- JES 4
+- KEB 32
+- UNI 2
+- KEB 7
+- OSL 4
+- ORL 19
+- EXE 19
+- ORL 14
+- HMC 4
+- SOM 4
+- SPC 5
+- PMB 1
+- WRC 20
+- HRT 11
+- SOM 3
+- STB 1
+- PMB 4
+- SOM 2
+- TRI 2
+- NEW 23\*
+- TRI 6
+- WRC 1
+- KEB 34
+- CHR 1
+- MER 3
+- ORL 2
+- CAT 12
+- SEH 10
+- ORL 4
+- NEW M1\*
+- WRC 34
+- BNC 1
+- SEH 6
+- RPC 2
+- ORL 9
+- BNC 5
+- WLF 4
+- HUG 1
+- PMB 15
+- MGD 5
+- WRC 22
+- EXE 5
+- CCC 6
+- STX 1
+- LIN 4
+- WRC 7
+- JES 8
+- QNS 1
+- WAD 4
+- EXE 14
+- UNI 5
+- NEW 6
+- WRC 26
+- HIL 1
+- SJC 8
+- NEW 4
+- WAD 13
+- SJC 5
+- KEL 2
+- WAD 5
+- WRC 17
+- PMB 3
+- TRI 8
+
+<!-- -->
+
+- Round 4
+- KEB 1
+- WRC 2
+- WLF 1
+- UNI 3
+- PMB 37\*
+- PMB 25
+- MER 1
+- MAN 8
+- MGD 1
+- PMB 2
+- ORL 16
+- BAL M1
+- LMH M1
+- WAD 2
+- HMC 1
+- MGD 2
+- KEB 18
+- BAL M9
+- NEW 1
+- KEB 9
+- SEH 1
+- NEW 2
+- WRC 4
+- QNS 2
+- TRI 1
+- ORL 8
+- HUG M1\*
+- MER 4
+- RPC 1
+- CHR 2
+- NEW 17
+- KEB 11
+- MAN 1
+- UNI 2
+- OSL 4
+- ORL 19
+- ORL 14
+- SOM 4
+- PMB 1
+- SOM 3
+- STB 1
+- TRI 2
+- NEW 23\*
+- WRC 1
+- MER 3
+- ORL 2
+- ORL 4
+- WRC 34
+- BNC 1
+- ORL 9
+- BNC 5
+- PMB 15
+- MGD 5
+- CCC 6
+- STX 1
+- JES 8
+- QNS 1
+- EXE 14
+- WRC 26
+- HIL 1
+- NEW 4
+- KEL 2
+- WRC 17
+- PMB 3
+
+<!-- -->
+
+- Round 5
+- KEB 1
+- WLF 1
+- PMB 37\*
+- MER 1
+- MGD 1
+- BAL M1
+- WAD 2
+- MGD 2
+- KEB 18
+- KEB 9
+- NEW 2
+- WRC 4
+- TRI 1
+- HUG M1\*
+- CHR 2
+- KEB 11
+- MAN 1
+- ORL 19
+- SOM 4
+- PMB 1
+- STB 1
+- WRC 1
+- MER 3
+- ORL 4
+- ORL 9
+- PMB 15
+- MGD 5
+- STX 1
+- EXE 14
+- WRC 26
+- NEW 4
+- PMB 3
+
+<!-- -->
+
+- Round 6
+- KEB 1
+- PMB 37\*
+- MGD 1
+- MGD 2
+- KEB 9
+- NEW 2
+- HUG M1\*
+- CHR 2
+- MAN 1
+- PMB 1
+- STB 1
+- ORL 4
+- ORL 9
+- MGD 5
+- WRC 26
+- NEW 4
+
+<!-- -->
+
+- Round 7
+- KEB 1
+- MGD 1
+- NEW 2
+- CHR 2
+- MAN 1
+- ORL 4
+- MGD 5
+- NEW 4
+
+<!-- -->
+
+- Round 8
+- MGD 1
+- NEW 2
+- ORL 4
+- MGD 5
+
+<!-- -->
+
+- Round 9
+- NEW 2
+- MGD 5
+
+**\*The following extra teams will play first round matches against each
+other, with winners being substituted into gaps in the draw (unplayed
+matches).**
+
+|                                                   |
+|---------------------------------------------------|
+| BAL 12: georgina.woodhouse-hills@balliol.ox.ac.uk |
+| BAL 13: john.clark-maxwell@balliol.ox.ac.uk       |
+| BLF 1: aaron.green@bfriars.ox.ac.uk               |
+| BNC 20: edward.imrie@bnc.ox.ac.uk                 |
+| BNC 21: michael.young@bnc.ox.ac.uk                |
+| BNC 22: melissa.thorne@bnc.ox.ac.uk               |
+| CAT 16: linda.geaves@stcatz.ox.ac.uk              |
+| EXE 25: jeanne.wang@exeter.ox.ac.uk               |
+| GTC 3: rahul.kejriwal@gtc.ox.ac.uk                |
+| HUG 12: jasmine.husband@st-hughs.ox.ac.uk         |
+| HUG 13: diana.hindlefisher@st-hughs.ox.ac.uk      |
+| HUG M 1: josh.cowls@st-hughs.ox.ac.uk             |
+| HUG M 2: markus.rauch@sbs.ox.ac.uk                |
+| JES 9: daniel.judd@jesus.ox.ac.uk                 |
+| LIN 10: eleanor.rowbottom@lincoln.ox.ac.uk        |
+| LMH 3: edward.smith@lmh.ox.ac.uk                  |
+| LMH 4: paul.bennett@lmh.ox.ac.uk                  |
+| MGD 15: timothy.lintern@magd.ox.ac.uk             |
+| MGD 22: vrinda.bhandari@magd.ox.ac.uk             |
+| NEW 22: charles.davies@new.ox.ac.uk               |
+| NEW 23: frederick.drapkin@new.ox.ac.uk            |
+| NEW 24: johannes.jaeckle@new.ox.ac.uk             |
+| NEW 25: stephen.fox@new.ox.ac.uk                  |
+| NEW 26: sophie.bird@new.ox.ac.uk                  |
+| NEW 27: james.mannion@new.ox.ac.uk                |
+| NEW M 1: helena.beeley@new.ox.ac.uk               |
+| PMB 36: niraj.dalmia@mba2012.sbs.oxford.edu       |
+| PMB 37: samuel.hill-smith@pmb.ox.ac.uk            |
+| QNS 23: holly.cuthbert@queens.ox.ac.uk            |
+| QNS 24: sophia.kinally@queens.ox.ac.uk            |
+| SEH 15: william.loughney@seh.ox.ac.uk             |
+| SJC 11: max.person@sjc.ox.ac.uk                   |
+| STX 2: rosa.goodman@stx.ox.ac.uk                  |
+| WAD 16: matthew.burnett@wadh.ox.ac.uk             |
+| WLF 5: kim.wilkinson@wolfson.ox.ac.uk             |
+| WRC 35: timothy.drewett@worc.ox.ac.uk             |

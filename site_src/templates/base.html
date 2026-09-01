@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ title }}</title>
+  <meta name="description" content="{{ description }}">
+  <link rel="icon" href="{{ root }}favico.ico">
+  <link rel="stylesheet" href="{{ root }}ouacc-modern.css">
+  <script defer src="{{ root }}ouacc.js"></script>
+  {% if search_script %}<script defer src="{{ root }}search.js"></script>{% endif %}
+</head>
+<body data-site-root="{{ root }}">
+  <a class="skip-link" href="#main-content">Skip to content</a>
+  {% include "header.html" %}
+  {{ body|safe }}
+  {% include "footer.html" %}
+</body>
+</html>

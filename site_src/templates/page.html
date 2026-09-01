@@ -1,0 +1,22 @@
+<div class="page-shell">
+  <div class="breadcrumb"><a href="{{ home_url }}">Home</a> / {{ section or title }}</div>
+  <section class="page-hero">
+    {% if eyebrow %}<p class="eyebrow">{{ eyebrow }}</p>{% endif %}
+    <h1>{{ title }}</h1>
+    {% if description and description != title %}<p class="hero-dek">{{ description }}</p>{% endif %}
+    <div class="ornament"></div>
+  </section>
+  <div class="page-grid">
+    <main class="content-wrap" id="main-content">
+      <article class="content">
+        {% if toc %}<nav aria-label="On this page" class="toc"><div class="toc-title">On this page</div>{% for t in toc %}<a class="toc-h2" href="#{{ t.id }}">{{ t.label }}</a>{% endfor %}</nav>{% endif %}
+        {{ content|safe }}
+      </article>
+    </main>
+    <aside class="side-rail" aria-label="Section navigation">
+      <h2>{{ section_label }}</h2>
+      <nav>{% for item in side_items %}<a href="{{ root }}{{ item.url }}"{% if current == item.url %} aria-current="page"{% endif %}>{{ item.label }}</a>{% endfor %}</nav>
+      <div class="side-promo"><div class="section-label">Our sponsors</div><img alt="Sipsmith placeholder partner logo" src="{{ root }}images/partners/sipsmith-small.png"><p>Our partners help support the Club and its programme of croquet.</p></div>
+    </aside>
+  </div>
+</div>
