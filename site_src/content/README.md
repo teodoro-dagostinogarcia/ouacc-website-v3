@@ -1,0 +1,1 @@
+Each Markdown file in this folder corresponds to one public page. Keep headings in sentence case. Use H2 for major sections. Keep paragraphs short and direct. Use court or courts for the croquet playing surface. Use the Club consistently for OUACC. Current pages should use current information. Historical pages should preserve historical wording and records.

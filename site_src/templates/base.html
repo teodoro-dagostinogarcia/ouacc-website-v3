@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ title }} | OUACC</title>
+  <meta name="description" content="{{ description }}">
+  <link rel="canonical" href="{{ canonical }}">
+  <meta property="og:title" content="{{ title }} | OUACC">
+  <meta property="og:description" content="{{ description }}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ canonical }}">
+  <meta property="og:image" content="{{ og_image }}">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="{{ root }}favico.ico">
+  <link rel="stylesheet" href="{{ root }}ouacc-modern.css">
+  <script defer src="{{ root }}ouacc.js"></script>
+</head>
+<body>
+<a class="skip-link" href="#main-content">Skip to content</a>
+<header class="site-header">
+  <div class="nav-shell">
+    <a class="brand" href="{{ root }}index.html" aria-label="OUACC home">
+      <img class="brand-mark" src="{{ root }}OUCC_CREST.png" alt="OUACC crest">
+      <span class="brand-copy">
+        <span class="brand-name">OUACC</span>
+        <span class="brand-subtitle">Oxford University<br>Association Croquet Club</span>
+        <span class="brand-year">Established 1867</span>
+      </span>
+    </a>
+    <nav class="main-nav" id="main-nav" aria-label="Primary navigation">
+      <a class="nav-link {% if path == 'index.html' %}active{% endif %}" href="{{ root }}index.html">Home</a>
+      {% for label, items in nav.items() %}
+      <div class="nav-group {% if section == label %}active{% endif %}">
+        <a class="nav-parent" href="{{ root }}{{ section_home[label] }}">{{ label }}</a>
+        <button class="nav-caret" type="button" aria-expanded="false" aria-label="Open {{ label }} menu">&#9662;</button>
+        <div class="dropdown-menu" aria-label="{{ label }} submenu">
+          {% for item, href in items %}<a href="{{ root }}{{ href }}"{% if path == href %} aria-current="page"{% endif %}>{{ item }}</a>{% endfor %}
+        </div>
+      </div>
+      {% endfor %}
+      <a class="nav-join" href="{{ root }}oucc/join.html">Join</a>
+      <a class="nav-search" href="{{ root }}search.html" aria-label="Search the OUACC website">Search</a>
+    </nav>
+    <button class="nav-toggle" type="button" aria-controls="main-nav" aria-expanded="false">Menu</button>
+  </div>
+</header>
+<main id="main-content">
+  {% block main %}{% endblock %}
+</main>
+<footer class="site-footer">
+  <div class="footer-shell">
+    <div class="footer-intro">
+      <div class="footer-brand">OUACC</div>
+      <p>Oxford University Association Croquet Club</p>
+      <p>University Parks, Oxford</p>
+    </div>
+    <div class="footer-col">
+      <div class="footer-label">Explore</div>
+      <a href="{{ root }}index.html">Home</a>
+      <a href="{{ root }}oucc/about.html">The Club</a>
+      <a href="{{ root }}coaching/howtoplay.html">Play</a>
+      <a href="{{ root }}college/cuppersintro.html">Cuppers</a>
+      <a href="{{ root }}varsity/index.html">Varsity</a>
+      <a href="{{ root }}fixtures/index.html">Fixtures</a>
+    </div>
+    <div class="footer-col">
+      <div class="footer-label">More</div>
+      <a href="{{ root }}partnerships.html">Partnerships</a>
+      <a href="{{ root }}members.html">Members area</a>
+      <a href="{{ root }}alumni.html">Alumni</a>
+      <a href="{{ root }}search.html">Search</a>
+    </div>
+    <div class="footer-panel">
+      <div class="footer-label">Stay in touch</div>
+      <p>Club news, events and updates by email.</p>
+      <a class="footer-action" href="mailto:interested-2026-ouacc-subscribe@maillist.ox.ac.uk">Join the mailing list</a>
+      <div class="partner-strip">
+        <span class="footer-label">Our partners</span>
+        <img src="{{ root }}images/partners/sipsmith-small.png" alt="Sipsmith">
+      </div>
+    </div>
+    <div class="footer-bottom">© 2026 Oxford University Association Croquet Club</div>
+  </div>
+</footer>
+</body>
+</html>

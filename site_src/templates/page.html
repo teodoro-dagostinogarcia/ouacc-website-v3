@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% block main %}
+<div class="page-shell">
+  <nav class="breadcrumb" aria-label="Breadcrumb"><a href="{{ root }}index.html">Home</a><span aria-hidden="true">/</span>{% if section != 'Home' %}<span>{{ section }}</span><span aria-hidden="true">/</span>{% endif %}<span aria-current="page">{{ title }}</span></nav>
+  <section class="page-hero">
+    <p class="eyebrow">{{ section }}{% if archive %} · Archive{% endif %}</p>
+    <h1>{{ title }}</h1>
+    {% if dek %}<p class="hero-dek">{{ dek }}</p>{% endif %}
+    <div class="ornament" aria-hidden="true"></div>
+  </section>
+  {% if archive %}<div class="archive-note">Archive material. Some information may describe past events or earlier Club arrangements.</div>{% endif %}
+  <div class="page-grid">
+    <article class="content" id="article-content">
+      {% if toc|length >= 3 %}
+      <nav class="toc" aria-label="On this page"><div class="toc-title">On this page</div>{% for item in toc %}<a href="#{{ item.id }}" class="toc-link">{{ item.text }}</a>{% endfor %}</nav>
+      {% endif %}
+      {{ body|safe }}
+    </article>
+    <aside class="side-rail">
+      <h2>{{ section }}</h2>
+      <nav aria-label="{{ section }} navigation">
+        {% for item, href in nav.get(section, []) %}<a href="{{ root }}{{ href }}"{% if path == href %} aria-current="page"{% endif %}>{{ item }}</a>{% endfor %}
+      </nav>
+      <div class="side-promo">
+        <div class="side-label">Our sponsors</div>
+        <img src="{{ root }}images/partners/sipsmith-small.png" alt="Sipsmith">
+        <p>Partner support helps the Club provide croquet, coaching and competitions.</p>
+      </div>
+    </aside>
+  </div>
+</div>
+{% endblock %}
