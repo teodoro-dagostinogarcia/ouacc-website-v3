@@ -110,32 +110,6 @@ title="https://www.croquet.org.uk/?p=games/clubs/details">here</a> .
 <tbody>
 <tr class="odd">
 <td><div>
-<img src="../images/partners/sipsmith-small.png" alt="Sipsmiths" />
-</div>
-<p>Croquet Cuppers 2026 is supported by Sipsmith, our Official Drinks
-Partner. Founded in London in 2009, Sipsmith was the first copper-pot
-distillery to open in the city in nearly two centuries, playing a
-significant role in the revival of small-batch gin production in the UK.
-The distillery produces its spirits using traditional copper stills and
-a one-shot distillation process. Its core product, Sipsmith London Dry
-Gin, is made using a blend of botanicals including juniper berries,
-citrus peels, and spices, alongside a broader range of expressions such
-as sloe gin, overproof gin, and flavoured variants. Sipsmith has become
-an established name in the modern craft spirits sector, combining
-traditional distillation methods with a contemporary product range, and
-its support contributes to the delivery of Croquet Cuppers 2026,
-including the competition finals.</p></td>
-</tr>
-</tbody>
-</table>
-
-<table>
-<colgroup>
-<col />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><div>
 <img src="../images/partners/CroquetEngland_Logo_Circle-sm.jpg"
 alt="Croquet England" />
 </div>

@@ -5,6 +5,12 @@ section: More
 source_path: alumni.html
 ---
 
+<figure class="page-photo">
+<img src="images/editorial/varsity_1983.jpg" loading="lazy"
+alt="Oxford Varsity team 1983." />
+<figcaption>Oxford Varsity team 1983.</figcaption>
+</figure>
+
 OUACC has a long history of students, players and supporters whose
 involvement extends well beyond their time at Oxford. We are developing
 a dedicated alumni programme ahead of the Club's 160th anniversary in

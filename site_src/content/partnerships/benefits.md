@@ -5,6 +5,12 @@ section: More
 source_path: partnerships/benefits.html
 ---
 
+<figure class="page-photo">
+<img src="../images/editorial/prizes_bundle_fl.jpg" loading="lazy"
+alt="Prizes and awards." />
+<figcaption>Prizes and awards.</figcaption>
+</figure>
+
 ## What a partnership can support
 
 Partners can help us fund activity across the Club, including coaching,

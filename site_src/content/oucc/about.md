@@ -5,6 +5,12 @@ section: The Club
 source_path: oucc/about.html
 ---
 
+<figure class="page-photo">
+<img src="../images/editorial/feet.jpg" loading="lazy"
+alt="Players on the croquet lawn." />
+<figcaption>Players on the croquet lawn.</figcaption>
+</figure>
+
 The historic University Croquet Club exists to promote croquet within
 the University at all levels. Whether you would like a social pastime or
 the challenge of competitive croquet - we are here to accommodate you.

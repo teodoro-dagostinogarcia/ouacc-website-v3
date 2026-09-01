@@ -5,14 +5,6 @@ section: Varsity
 source_path: varsity/archive.html
 ---
 
-<div class="archive-note">
-
-Historical material is retained as part of the Club archive.
-Contemporary summaries may be edited, but original records and results
-are preserved.
-
-</div>
-
 The Varsity archive brings together results, team lists, reports,
 photographs and Half Blue records from past matches.
 

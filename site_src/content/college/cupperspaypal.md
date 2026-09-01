@@ -43,21 +43,18 @@ is in this box.</p>
 <tbody>
 <tr class="odd">
 <td><div>
-<img src="../images/partners/sipsmith-small.png" alt="Sipsmiths" />
+<img src="../images/partners/CroquetEngland_Logo_Circle-sm.jpg"
+alt="Croquet England" />
 </div>
-<p>Croquet Cuppers 2026 is supported by Sipsmith, our Official Drinks
-Partner. Founded in London in 2009, Sipsmith was the first copper-pot
-distillery to open in the city in nearly two centuries, playing a
-significant role in the revival of small-batch gin production in the UK.
-The distillery produces its spirits using traditional copper stills and
-a one-shot distillation process. Its core product, Sipsmith London Dry
-Gin, is made using a blend of botanicals including juniper berries,
-citrus peels, and spices, alongside a broader range of expressions such
-as sloe gin, overproof gin, and flavoured variants. Sipsmith has become
-an established name in the modern craft spirits sector, combining
-traditional distillation methods with a contemporary product range, and
-its support contributes to the delivery of Croquet Cuppers 2026,
-including the competition finals.</p></td>
+<p>Croquet England is the national governing body for the sport of
+Croquet in England and is responsible for promoting community
+participation and advancing the sport. <a
+href="https://www.croquetengland.org.uk/"
+target="_blank">https://www.croquetengland.org.uk/</a> .</p>
+<p>It runs an <a href="https://www.croquetengland.org.uk/shop/"
+target="_blank">online shop</a> , where both its members and the public
+can purchase books and equipment, with the benefit of advice if
+needed.</p></td>
 </tr>
 </tbody>
 </table></td>

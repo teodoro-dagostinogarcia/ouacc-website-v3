@@ -6,10 +6,9 @@ source_path: fixtures/index.html
 ---
 
 <figure class="page-photo">
-<img src="../images/editorial/playing_all_balls.jpg" loading="lazy"
-alt="Association croquet in the University Parks." />
-<figcaption>Association croquet in the University Parks. Photo credit:
-Francis Law.</figcaption>
+<img src="../images/editorial/cuppers_finalists_2026.jpg" loading="lazy"
+alt="Student Championships 2026 finalists." />
+<figcaption>Student Championships 2026 finalists.</figcaption>
 </figure>
 
 <div>
