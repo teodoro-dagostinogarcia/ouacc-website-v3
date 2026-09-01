@@ -1,145 +1,286 @@
 <section class="home-hero">
-<div class="home-hero-inner">
-<div class="home-copy">
-<div class="home-kicker">
-      Oxford University Association Croquet Club
-     </div>
-<h1>
-      Association croquet in Oxford since 1867
-     </h1>
-<p>
-      Play on the University Parks courts, learn from experienced players, compete for Oxford and take part in one of the University’s oldest sporting traditions.
-     </p>
-<div class="home-actions">
-<a class="button button-solid light" href="oucc/join.html">
-       Join the Club
-      </a>
-<a class="button button-outline light" href="mailto:interested-2026-ouacc-subscribe@maillist.ox.ac.uk?subject=subscribe">
-       Join the mailing list
-      </a>
-</div>
-</div>
-<div aria-label="Croquet on the OUACC courts in the University Parks" class="home-photo" role="img">
-</div>
-</div>
-</section>
-<div aria-label="Quick links" class="home-strip">
-<div class="home-strip-inner">
-<a href="oucc/directions.html">
-     University Parks
-    </a>
-<a href="college/cuppersintro.html">
-     Croquet Cuppers
-    </a>
-<a href="varsity/index.html">
-     Varsity
-    </a>
-<a href="coaching/howtoplay.html">
-     Learn to play
-    </a>
-<a href="oucc/join.html">
-     Membership
-    </a>
-</div>
-</div>
-<section class="editorial">
-<div class="section-label">
-    The Club
-   </div>
-<h2>
-    Serious about croquet, open to everyone
-   </h2>
-<p class="lead">
-    OUACC brings together complete beginners, regular players and experienced competitors. Members have access to full-size courts, Club equipment, coaching and a programme of matches and competitions.
-   </p>
-<div class="three-grid">
-<article class="news-card">
-<div class="news-card-media">
-<img alt="Winners of Croquet Cuppers 2026." loading="lazy" src="images/editorial/winners_cuppers_2026.jpg">
-</img></div>
-<div class="section-label">
-      College competition
-     </div>
-<h3>
-      Croquet Cuppers
-     </h3>
-<p>
-      OUACC runs Oxford’s inter-college croquet competition, bringing teams together from across the University.
-     </p>
-<a aria-label="Explore Cuppers" class="card-link-overlay" href="college/cuppersintro.html">
-</a>
-</article>
-<article class="news-card">
-<div class="news-card-media">
-<img alt="Oxford Varsity team, 1983." loading="lazy" src="images/editorial/varsity_1983.jpg"/>
-</div>
-<div class="section-label">
-      Oxford v Cambridge
-     </div>
-<h3>
-      Varsity
-     </h3>
-<p>
-      Each year the Club fields an Oxford team for the Varsity Match against Cambridge at the Hurlingham Club.
-     </p>
-<a aria-label="Explore Varsity" class="card-link-overlay" href="varsity/index.html">
-</a>
-</article>
-<article class="news-card">
-<div class="news-card-media">
-<img alt="Coaching on the University Parks courts." loading="lazy" src="images/editorial/coaching.jpg"/>
-</div>
-<div class="section-label">
-      Club life
-     </div>
-<h3>
-      Play and improve
-     </h3>
-<p>
-      Start with introductory coaching, join Club evenings, enter competitions and progress at your own pace.
-     </p>
-<a aria-label="Learn the game" class="card-link-overlay" href="coaching/howtoplay.html">
-</a>
-</article>
-</div>
-</section>
-<section class="feature-band">
-<div class="feature-inner">
-<div class="feature-copy">
-<div class="section-label light">
-      University Parks
-     </div>
-<h2>
-      Two full-size courts in the centre of Oxford
-     </h2>
-<p>
-      The Club’s courts are in the University Parks. Members can book courts, use Club equipment and play throughout the season, subject to fixtures and coaching.
-     </p>
-<a class="button button-solid light" href="https://croquetbooking.com/book/index.php?view=day&area=1&room=1&site=53">
-       Book a court
-      </a>
-<a class="button button-outline light" href="oucc/directions.html">
-      Find us
-     </a>
-</div>
-<div class="feature-photo">
-<img alt="Association croquet in play on the University Parks courts" src="images/editorial/playing_all_balls.jpg"/>
-</div>
-</div>
-</section>
-<section class="membership-callout">
-<div>
-<div class="section-label">
-     Membership
+  <div class="home-hero-inner">
+
+    <div class="home-copy">
+
+      <div class="home-kicker">
+        Oxford University Association Croquet Club
+      </div>
+
+      <h1>
+        Association croquet in Oxford since 1867
+      </h1>
+
+      <p>
+        Play on the University Parks courts, learn from experienced players, compete for Oxford and take part in one of the University’s oldest sporting traditions.
+      </p>
+
+      <div class="home-actions">
+        <a class="button button-solid light" href="oucc/join.html">
+          Join the Club
+        </a>
+
+        <a
+          class="button button-outline light"
+          href="mailto:interested-2026-ouacc-subscribe@maillist.ox.ac.uk?subject=subscribe"
+        >
+          Join the mailing list
+        </a>
+      </div>
+
     </div>
-<h2>
-     Come and play
-    </h2>
-<p>
-     Membership options, practical information and joining instructions are available here.
-    </p>
+
+    <div
+      aria-label="Croquet on the OUACC courts in the University Parks"
+      class="home-photo"
+      role="img"
+    >
+    </div>
+
+  </div>
+</section>
+
+
+<div aria-label="Quick links" class="home-strip">
+  <div class="home-strip-inner">
+
+    <a href="oucc/directions.html">
+      University Parks
+    </a>
+
+    <a href="college/cuppersintro.html">
+      Croquet Cuppers
+    </a>
+
+    <a href="varsity/index.html">
+      Varsity
+    </a>
+
+    <a href="coaching/howtoplay.html">
+      Learn to play
+    </a>
+
+    <a href="oucc/join.html">
+      Membership
+    </a>
+
+  </div>
 </div>
-<a class="button button-solid" href="oucc/join.html">
+
+
+<section class="editorial">
+
+  <div class="section-label">
+    The Club
+  </div>
+
+  <h2>
+    Serious about croquet, open to everyone
+  </h2>
+
+  <p class="lead">
+    OUACC brings together complete beginners, regular players and experienced competitors. Members have access to full-size courts, Club equipment, coaching and a programme of matches and competitions.
+  </p>
+
+  <div class="three-grid">
+
+    <article class="news-card">
+
+      <a
+        class="card-link-overlay"
+        href="college/cuppersintro.html"
+        aria-label="Explore Cuppers"
+      >
+        <span class="visually-hidden">
+          Explore Cuppers
+        </span>
+      </a>
+
+      <div class="news-card-media">
+        <img
+          alt="Winners of Croquet Cuppers 2026."
+          loading="lazy"
+          src="images/editorial/winners_cuppers_2026.jpg"
+        />
+      </div>
+
+      <div class="section-label">
+        College competition
+      </div>
+
+      <h3>
+        Croquet Cuppers
+      </h3>
+
+      <p>
+        OUACC runs Oxford’s inter-college croquet competition, bringing teams together from across the University.
+      </p>
+
+      <div class="card-link">
+        Explore Cuppers
+      </div>
+
+    </article>
+
+
+    <article class="news-card">
+
+      <a
+        class="card-link-overlay"
+        href="varsity/index.html"
+        aria-label="Explore Varsity"
+      >
+        <span class="visually-hidden">
+          Explore Varsity
+        </span>
+      </a>
+
+      <div class="news-card-media">
+        <img
+          alt="Oxford Varsity team, 1983."
+          loading="lazy"
+          src="images/editorial/varsity_1983.jpg"
+        />
+      </div>
+
+      <div class="section-label">
+        Oxford v Cambridge
+      </div>
+
+      <h3>
+        Varsity
+      </h3>
+
+      <p>
+        Each year the Club fields an Oxford team for the Varsity Match against Cambridge at the Hurlingham Club.
+      </p>
+
+      <div class="card-link">
+        Explore Varsity
+      </div>
+
+    </article>
+
+
+    <article class="news-card">
+
+      <a
+        class="card-link-overlay"
+        href="coaching/howtoplay.html"
+        aria-label="Learn the game"
+      >
+        <span class="visually-hidden">
+          Learn the game
+        </span>
+      </a>
+
+      <div class="news-card-media">
+        <img
+          alt="Coaching on the University Parks courts."
+          loading="lazy"
+          src="images/editorial/coaching.jpg"
+        />
+      </div>
+
+      <div class="section-label">
+        Club life
+      </div>
+
+      <h3>
+        Play and improve
+      </h3>
+
+      <p>
+        Start with introductory coaching, join Club evenings, enter competitions and progress at your own pace.
+      </p>
+
+      <div class="card-link">
+        Learn the game
+      </div>
+
+    </article>
+
+  </div>
+
+</section>
+
+
+<section class="feature-band">
+
+  <div class="feature-inner">
+
+    <div class="feature-copy">
+
+      <div class="section-label light">
+        University Parks
+      </div>
+
+      <h2>
+        Two full-size courts in the centre of Oxford
+      </h2>
+
+      <p>
+        The Club’s courts are in the University Parks. Members can book courts, use Club equipment and play throughout the season, subject to fixtures and coaching.
+      </p>
+
+      <div class="feature-actions">
+
+        <a
+          class="button button-solid light"
+          href="https://croquetbooking.com/book/index.php?view=day&amp;area=1&amp;room=1&amp;site=53"
+        >
+          Book a court
+        </a>
+
+        <a
+          class="button button-outline light"
+          href="oucc/directions.html"
+        >
+          Find us
+        </a>
+
+      </div>
+
+    </div>
+
+    <div class="feature-photo">
+
+      <img
+        alt="Association croquet in play on the University Parks courts"
+        src="images/editorial/playing_all_balls.jpg"
+        loading="lazy"
+      />
+
+    </div>
+
+  </div>
+
+</section>
+
+
+<section class="membership-callout">
+
+  <div>
+
+    <div class="section-label">
+      Membership
+    </div>
+
+    <h2>
+      Come and play
+    </h2>
+
+    <p>
+      Membership options, practical information and joining instructions are available here.
+    </p>
+
+  </div>
+
+  <a
+    class="button button-solid"
+    href="oucc/join.html"
+  >
     Membership
-   </a>
+  </a>
+
 </section>
