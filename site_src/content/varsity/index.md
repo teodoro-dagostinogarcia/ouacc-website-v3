@@ -5,8 +5,14 @@ section: Varsity
 source_path: varsity/index.html
 ---
 
-The Varsity Match is OUACC’s annual competition against Cambridge
-University. It is one of the Club’s principal fixtures.
+<figure class="page-photo">
+<img src="../images/2024_varsity/2024-varsity.jpg" loading="lazy"
+alt="Oxford Varsity team 2024." />
+<figcaption>Oxford Varsity team 2024.</figcaption>
+</figure>
+
+The Varsity Match is OUACC's annual competition against Cambridge
+University. It is one of the Club's principal fixtures.
 
 The 2026 Varsity Match was held on Monday 22 June at the Hurlingham Club
 in London.

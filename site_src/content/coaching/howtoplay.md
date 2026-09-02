@@ -5,16 +5,21 @@ section: Play
 source_path: coaching/howtoplay.html
 ---
 
+<figure class="page-photo">
+<img src="../images/editorial/measuring.jpg" loading="lazy"
+alt="Player measuring distance on the lawn." />
+<figcaption>Player measuring distance on the lawn.</figcaption>
+</figure>
+
 This page contains information about how to learn the basics of the
-game, where to go to see the OUACC [demonstration](demomatch.html)
-match, and how to receive free OUACC coaching. For information about
+game and how to receive free OUACC coaching. For information about
 suitable equipment to buy for ordinary college and personal use, and
 details of a potential discount follow [this
 link](../college/equipment.html) .
 
 ## Learning the game
 
-[<img src="../images/lawn.gif" alt="Simplified croquet court layout" data-hspace="15" data-vspace="0" />](https://www.oxfordcroquet.com/coach/simplified/)
+[<img src="../images/lawn.gif" alt="Simplified croquet court layout" data-hspace="15" data-vspace="0" style="float: right; margin: 0 0 15px 20px;" />](https://www.oxfordcroquet.com/coach/simplified/)
 
 To find information on the web about learning the game and tactics of
 croquet OUACC recommends the website the book "Know the Game Croquet".

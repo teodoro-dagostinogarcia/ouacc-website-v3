@@ -6,10 +6,9 @@ source_path: fixtures/studentchamps.html
 ---
 
 <figure class="page-photo">
-<img src="../images/editorial/prizes_bundle_fl.jpg" loading="lazy"
-alt="Student Championships" />
-<figcaption>Prizes and awards from a student competition. Photo credit:
-Francis Law.</figcaption>
+<img src="../images/editorial/cuppers_finalists_2026.jpg" loading="lazy"
+alt="Student Championships 2026 finalists." />
+<figcaption>Student Championships finalists. Photo credit: Francis Law.</figcaption>
 </figure>
 
 The Student Championships bring students together for singles and

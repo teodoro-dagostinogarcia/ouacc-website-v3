@@ -912,11 +912,20 @@ button {
 .button-outline:focus-visible {
     background: rgba(255, 255, 255, 0.08);
     color: var(--white) !important;
+    border-color: rgba(255, 255, 255, 1);
 }
 
 .button-outline.light {
-    border-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(255, 255, 255, 0.9);
     color: var(--white) !important;
+    background: rgba(255, 255, 255, 0.05);
+    padding: 10px 15px;
+}
+
+.button-outline.light:hover,
+.button-outline.light:focus-visible {
+    background: rgba(255, 255, 255, 0.12);
+    border-color: rgba(255, 255, 255, 1);
 }
 
 .text-link {
@@ -1592,6 +1601,108 @@ button {
 
 @media (max-width: 600px) {
 
+    .page-shell {
+        padding: 0 16px;
+    }
+
+    .nav-shell {
+        padding: 9px 16px;
+        min-height: 60px;
+        gap: 12px;
+    }
+
+    .brand {
+        min-width: auto;
+        flex: 1;
+    }
+
+    .brand-name {
+        font-size: 14px;
+    }
+
+    .brand-year {
+        display: none;
+    }
+
+    .main-nav {
+        display: none;
+    }
+
+    .nav-toggle {
+        display: block;
+    }
+
+    .page-grid {
+        grid-template-columns: 1fr;
+        gap: 20px;
+        padding-bottom: 28px;
+    }
+
+    .side-rail {
+        position: static;
+        top: auto;
+    }
+
+    .content {
+        padding: 18px 20px 22px;
+    }
+
+    .page-hero {
+        padding: 12px 0 10px;
+    }
+
+    .page-hero h1 {
+        font-size: clamp(18px, 1.5vw, 23px);
+    }
+
+    .hero-dek {
+        font-size: 12px;
+    }
+
+    .three-grid {
+        grid-template-columns: 1fr;
+        gap: 12px;
+    }
+
+    .home-hero-inner {
+        grid-template-columns: 1fr;
+    }
+
+    .home-copy {
+        padding: 24px 16px;
+    }
+
+    .home-photo {
+        min-height: 250px;
+    }
+
+    .home-strip a {
+        min-width: 110px;
+        padding: 8px 10px;
+        font-size: 8px;
+    }
+
+    .editorial {
+        padding: 24px 16px 28px;
+    }
+
+    .membership-callout {
+        padding: 20px 16px 24px;
+    }
+
+    .news-card {
+        min-height: auto;
+    }
+
+    .photo-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 8px;
+    }
+
+    .content .photo-grid img {
+        height: 120px;
+    }
+
     .footer-shell {
         padding-left: 16px;
         padding-right: 16px;
@@ -1628,6 +1739,19 @@ button {
     }
 
     .partner-logos {
+        width: 100%;
+    }
+
+    .search-form-row {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .search-form-row input {
+        width: 100%;
+    }
+
+    .search-form-row button {
         width: 100%;
     }
 }
@@ -1668,6 +1792,62 @@ button {
 
 .search-results {
     margin-top: 3px;
+}
+
+.search-result {
+   display: block;
+   margin: 15px 0;
+   padding: 14px;
+   background: var(--white);
+   border-left: 3px solid var(--gold);
+   box-shadow: var(--shadow-soft);
+}
+
+.search-result-title {
+   display: block;
+   color: var(--blue);
+   font-weight: 600;
+   font-size: 14px;
+   text-decoration: none;
+   margin-bottom: 6px;
+}
+
+.search-result-title:hover,
+.search-result-title:focus-visible {
+   color: var(--green);
+   text-decoration: underline;
+}
+
+.search-result p {
+   margin: 0;
+   color: var(--muted);
+   font-size: 12px;
+   line-height: 1.5;
+}
+
+.no-results {
+   color: var(--muted);
+   font-size: 13px;
+}
+
+.site-search-form label {
+   display: block;
+   margin-bottom: 12px;
+   color: var(--blue);
+   font-weight: 600;
+   font-size: 12px;
+}
+
+.site-search-form .search-form-row button {
+   background: var(--blue);
+   color: var(--white);
+   border: 1px solid var(--blue);
+}
+
+.site-search-form .search-form-row button:hover,
+.site-search-form .search-form-row button:focus-visible {
+   background: var(--blue-2);
+   border-color: var(--blue-2);
 }
 
 /* =========================================================

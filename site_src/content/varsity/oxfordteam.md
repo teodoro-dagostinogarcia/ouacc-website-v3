@@ -5,13 +5,6 @@ section: Varsity
 source_path: varsity/oxfordteam.html
 ---
 
-<figure class="page-photo">
-<img src="../varsity/pictures/1983.jpg" loading="lazy"
-alt="The Oxford Varsity team in 1983." />
-<figcaption aria-hidden="true">The Oxford Varsity team in
-1983.</figcaption>
-</figure>
-
 The list below attempts to record all Oxford players (and their handicap
 at the time, in brackets) in the Croquet Varsity Match. The data is very
 sketchy and any corrections or additions would be welcomed. Please

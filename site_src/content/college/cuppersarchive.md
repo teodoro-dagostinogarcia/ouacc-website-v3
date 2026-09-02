@@ -5,14 +5,6 @@ section: Cuppers
 source_path: college/cuppersarchive.html
 ---
 
-<div class="archive-note">
-
-Historical material is retained as part of the Club archive.
-Contemporary summaries may be edited, but original records and results
-are preserved.
-
-</div>
-
 |          |                  |                  |                          |                      |                                                   |
 |----------|------------------|------------------|--------------------------|----------------------|---------------------------------------------------|
 | Year     | College Team     | Captain          | Player 2                 | Player 3             | Player 4                                          |

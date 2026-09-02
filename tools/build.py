@@ -12,7 +12,7 @@ DATA=json.loads((SRC/'data'/'site.json').read_text(encoding='utf-8'))
 
 SECTIONS=[
  {'key':'club','label':'The Club','index':'oucc/about.html','items':[('About the Club','oucc/about.html'),('Committee','oucc/committee.html'),('Membership','oucc/join.html'),('Find us','oucc/directions.html'),('Documents','oucc/documents.html'),('History','oucc/history.html')]},
- {'key':'play','label':'Play','index':'coaching/howtoplay.html','items':[('How to play','coaching/howtoplay.html'),('Intermediate coaching','coaching/intermediate.html'),('Handicapping','coaching/handicapping.html'),('Demonstration match','coaching/demomatch.html')]},
+ {'key':'play','label':'Play','index':'coaching/howtoplay.html','items':[('How to play','coaching/howtoplay.html'),('Intermediate coaching','coaching/intermediate.html'),('Handicapping','coaching/handicapping.html')]},
  {'key':'cuppers','label':'Cuppers','index':'college/cuppersintro.html','items':[('Cuppers overview','college/cuppersintro.html'),('Entry','college/cupperssignup.html'),('Rules','college/cuppersrules.html'),('Results','college/cuppersresults.html'),('FAQ','college/cuppersfaq.html'),('Archive','college/cuppersarchive.html')]},
  {'key':'varsity','label':'Varsity','index':'varsity/index.html','items':[('Varsity overview','varsity/index.html'),('Oxford team','varsity/oxfordteam.html'),('Results','varsity/varsity_results.html'),('Match reports','varsity/matchreports.html'),('Photographs','varsity/photos.html'),('Half Blues','varsity/halfblue.html'),('Archive','varsity/archive.html')]},
  {'key':'fixtures','label':'Fixtures','index':'fixtures/index.html','items':[('Fixtures','fixtures/index.html'),('Student Championships','fixtures/studentchamps.html')]},
